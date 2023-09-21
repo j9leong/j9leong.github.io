@@ -1,4 +1,3 @@
-# j9leong.github.io
 
 <!DOCTYPE html>
 <html class="no-js" lang="en-US">
