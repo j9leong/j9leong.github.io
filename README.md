@@ -1,4 +1,6 @@
-
+header {
+  display: none;
+}
 <html class="no-js" lang="en-US">
 <head>
 <meta charset="UTF-8">
