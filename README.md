@@ -1,531 +1,546 @@
 
+<!-- Begin Header -->
 <!DOCTYPE html>
-<html class="no-js" lang="en-US">
+<html class="no-js wf-loading" lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="pingback" href="https://amprius.com/xmlrpc.php">
-<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+  <style>.wf-loading .utility-links, .wf-loading .drawer-toggle, .wf-loading .menu, .wf-loading h1,.wf-loading h2,.wf-loading h3,.wf-loading h4,.wf-loading h5,.wf-loading h6,.wf-loading li,.wf-loading p,.wf-loading a:not(.button), .wf-loading .wf-hide {visibility:hidden; opacity:0;}.menu, .utility-links, .drawer-toggle, .logo {opacity:1; transition:opacity 250ms ease;}</style>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1, maximum-scale=1" />
+  <script>WebFontConfig={typekit:{id:"kko4kgt"},active: function() {}},function(e){var t=e.createElement("script"),o=e.scripts[0];t.src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js",o.parentNode.insertBefore(t,o)}(document);</script>
 
-<!-- Social Warfare v4.4.2 https://warfareplugins.com - BEGINNING OF OUTPUT -->
-<style>
-	@font-face {
-		font-family: "sw-icon-font";
-		src:url("https://amprius.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=4.4.2");
-		src:url("https://amprius.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=4.4.2#iefix") format("embedded-opentype"),
-		url("https://amprius.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.woff?ver=4.4.2") format("woff"),
-		url("https://amprius.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.ttf?ver=4.4.2") format("truetype"),
-		url("https://amprius.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.svg?ver=4.4.2#1445203416") format("svg");
-		font-weight: normal;
-		font-style: normal;
-		font-display:block;
-	}
-</style>
-<!-- Social Warfare v4.4.2 https://warfareplugins.com - END OF OUTPUT -->
-
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v21.3 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>About Amprius Technologies | amprius.com</title>
-	<meta name="description" content="A pioneer and the established leader in the production of silicon anode materials for high energy density lithium ion batteries" />
-	<link rel="canonical" href="https://amprius.com/about/" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://amprius.com/about/","url":"https://amprius.com/about/","name":"About Amprius Technologies | amprius.com","isPartOf":{"@id":"https://amprius.com/#website"},"primaryImageOfPage":{"@id":"https://amprius.com/about/#primaryimage"},"image":{"@id":"https://amprius.com/about/#primaryimage"},"thumbnailUrl":"https://amprius.com/wp-content/uploads/2021/03/amprius-default.jpg","datePublished":"2021-02-27T07:55:34+00:00","dateModified":"2023-07-03T20:05:15+00:00","description":"A pioneer and the established leader in the production of silicon anode materials for high energy density lithium ion batteries","breadcrumb":{"@id":"https://amprius.com/about/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://amprius.com/about/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://amprius.com/about/#primaryimage","url":"https://amprius.com/wp-content/uploads/2021/03/amprius-default.jpg","contentUrl":"https://amprius.com/wp-content/uploads/2021/03/amprius-default.jpg","width":1366,"height":768,"caption":"Amprius"},{"@type":"BreadcrumbList","@id":"https://amprius.com/about/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://amprius.com/"},{"@type":"ListItem","position":2,"name":"About Amprius"}]},{"@type":"WebSite","@id":"https://amprius.com/#website","url":"https://amprius.com/","name":"Amprius Technologies","description":"Silicon Anode Batteries","publisher":{"@id":"https://amprius.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://amprius.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://amprius.com/#organization","name":"Amprius Technologies","url":"https://amprius.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://amprius.com/#/schema/logo/image/","url":"https://amprius.com/wp-content/uploads/2021/02/logo-rw@2x.png","contentUrl":"https://amprius.com/wp-content/uploads/2021/02/logo-rw@2x.png","width":171,"height":80,"caption":"Amprius Technologies"},"image":{"@id":"https://amprius.com/#/schema/logo/image/"}}]}</script>
+	<title>Transformational Solid-state Battery Technology | Factorial</title>
+	<link rel="canonical" href="https://factorialenergy.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Transformational Solid-state Battery Technology | Factorial" />
+	<meta property="og:url" content="https://factorialenergy.com/" />
+	<meta property="og:site_name" content="Factorial" />
+	<meta property="article:modified_time" content="2023-03-13T17:43:55+00:00" />
+	<meta property="og:image" content="https://factorialenergy.com/wp-content/uploads/DSC08375.jpg" />
+	<meta property="og:image:width" content="2048" />
+	<meta property="og:image:height" content="1366" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@lionanoinc" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://factorialenergy.com/","url":"https://factorialenergy.com/","name":"Transformational Solid-state Battery Technology | Factorial","isPartOf":{"@id":"https://factorialenergy.com/#website"},"datePublished":"2018-05-05T17:16:09+00:00","dateModified":"2023-03-13T17:43:55+00:00","breadcrumb":{"@id":"https://factorialenergy.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://factorialenergy.com/"]}]},{"@type":"BreadcrumbList","@id":"https://factorialenergy.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://factorialenergy.com/#website","url":"https://factorialenergy.com/","name":"Factorial","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://factorialenergy.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
-<link rel="alternate" type="application/rss+xml" title="Amprius Technologies &raquo; Feed" href="https://amprius.com/feed/" />
-<script type="text/javascript">
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/amprius.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.1"}};
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://factorialenergy.com/wp-includes/css/dist/block-library/style.min.css?ver=6.3.1' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
 /*! This file is auto-generated */
-!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
-</script>
-<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 0.07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
 </style>
-	<link rel='stylesheet' id='social-warfare-block-css-css' href='https://amprius.com/wp-content/plugins/social-warfare/assets/js/post-editor/dist/blocks.style.build.css?ver=6.3.1' type='text/css' media='all' />
-<link rel='stylesheet' id='cookie-law-info-css' href='https://amprius.com/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=3.1.4' type='text/css' media='all' />
-<link rel='stylesheet' id='cookie-law-info-gdpr-css' href='https://amprius.com/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=3.1.4' type='text/css' media='all' />
-<style id='wpgb-head-inline-css' type='text/css'>
-.wp-grid-builder:not(.wpgb-template),.wpgb-facet{opacity:0.01}.wpgb-facet fieldset{margin:0;padding:0;border:none;outline:none;box-shadow:none}.wpgb-facet fieldset:last-child{margin-bottom:40px;}.wpgb-facet fieldset legend.wpgb-sr-only{height:1px;width:1px}
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
-<link rel='stylesheet' id='social_warfare-css' href='https://amprius.com/wp-content/plugins/social-warfare/assets/css/style.min.css?ver=4.4.2' type='text/css' media='all' />
-<link rel='stylesheet' id='x-stack-css' href='https://amprius.com/wp-content/themes/pro/framework/dist/css/site/stacks/ethos.css?ver=6.3.9' type='text/css' media='all' />
-<link rel='stylesheet' id='x-child-css' href='https://amprius.com/wp-content/themes/pro-child/style.css?ver=6.3.9' type='text/css' media='all' />
-<style id='cs-inline-css' type='text/css'>
-@media (min-width:1200px){.x-hide-xl{display:none !important;}}@media (min-width:979px) and (max-width:1199.98px){.x-hide-lg{display:none !important;}}@media (min-width:767px) and (max-width:978.98px){.x-hide-md{display:none !important;}}@media (min-width:480px) and (max-width:766.98px){.x-hide-sm{display:none !important;}}@media (max-width:479.98px){.x-hide-xs{display:none !important;}} a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.x-breadcrumb-wrap a:hover,.x-comment-author a:hover,.x-comment-time:hover,.p-meta > span > a:hover,.format-link .link a:hover,.x-main .widget ul li a:hover,.x-main .widget ol li a:hover,.x-main .widget_tag_cloud .tagcloud a:hover,.x-sidebar .widget ul li a:hover,.x-sidebar .widget ol li a:hover,.x-sidebar .widget_tag_cloud .tagcloud a:hover,.x-portfolio .entry-extra .x-ul-tags li a:hover{color:#c04635;}a:hover{color:#599bae;}a.x-img-thumbnail:hover{border-color:#c04635;}.x-main{width:72%;}.x-sidebar{width:calc( 100% - 72%);}.x-post-slider-archive-active .x-container.main:not(.x-row):not(.x-grid):before{top:0;}.x-content-sidebar-active .x-container.main:not(.x-row):not(.x-grid):before{right:calc( 100% - 72%);}.x-sidebar-content-active .x-container.main:not(.x-row):not(.x-grid):before{left:calc( 100% - 72%);}.x-full-width-active .x-container.main:not(.x-row):not(.x-grid):before{left:-5000em;}.h-landmark,.x-main .h-widget,.x-main .h-widget a.rsswidget,.x-main .h-widget a.rsswidget:hover,.x-main .widget.widget_pages .current_page_item a,.x-main .widget.widget_nav_menu .current-menu-item a,.x-main .widget.widget_pages .current_page_item a:hover,.x-main .widget.widget_nav_menu .current-menu-item a:hover,.x-sidebar .h-widget,.x-sidebar .h-widget a.rsswidget,.x-sidebar .h-widget a.rsswidget:hover,.x-sidebar .widget.widget_pages .current_page_item a,.x-sidebar .widget.widget_nav_menu .current-menu-item a,.x-sidebar .widget.widget_pages .current_page_item a:hover,.x-sidebar .widget.widget_nav_menu .current-menu-item a:hover{color:#333333;}.x-main .widget,.x-main .widget a,.x-main .widget ul li a,.x-main .widget ol li a,.x-main .widget_tag_cloud .tagcloud a,.x-main .widget_product_tag_cloud .tagcloud a,.x-main .widget a:hover,.x-main .widget ul li a:hover,.x-main .widget ol li a:hover,.x-main .widget_tag_cloud .tagcloud a:hover,.x-main .widget_product_tag_cloud .tagcloud a:hover,.x-main .widget_shopping_cart .buttons .button,.x-main .widget_price_filter .price_slider_amount .button,.x-sidebar .widget,.x-sidebar .widget a,.x-sidebar .widget ul li a,.x-sidebar .widget ol li a,.x-sidebar .widget_tag_cloud .tagcloud a,.x-sidebar .widget_product_tag_cloud .tagcloud a,.x-sidebar .widget a:hover,.x-sidebar .widget ul li a:hover,.x-sidebar .widget ol li a:hover,.x-sidebar .widget_tag_cloud .tagcloud a:hover,.x-sidebar .widget_product_tag_cloud .tagcloud a:hover,.x-sidebar .widget_shopping_cart .buttons .button,.x-sidebar .widget_price_filter .price_slider_amount .button{color:#333333;}.x-main .h-widget,.x-main .widget.widget_pages .current_page_item,.x-main .widget.widget_nav_menu .current-menu-item,.x-sidebar .h-widget,.x-sidebar .widget.widget_pages .current_page_item,.x-sidebar .widget.widget_nav_menu .current-menu-item{border-color:#333333;}.x-post-slider{height:425px;}.archive .x-post-slider{height:425px;}.x-post-slider .x-post-slider-entry{padding-bottom:425px;}.archive .x-post-slider .x-post-slider-entry{padding-bottom:425px;}.format-link .link a,.x-portfolio .entry-extra .x-ul-tags li a{color:rgb(77,77,75);}.p-meta > span > a,.x-nav-articles a,.entry-top-navigation .entry-parent,.option-set .x-index-filters,.option-set .x-portfolio-filters,.option-set .x-index-filters-menu >li >a:hover,.option-set .x-index-filters-menu >li >a.selected,.option-set .x-portfolio-filters-menu > li > a:hover,.option-set .x-portfolio-filters-menu > li > a.selected{color:#000101;}.x-nav-articles a,.entry-top-navigation .entry-parent,.option-set .x-index-filters,.option-set .x-portfolio-filters,.option-set .x-index-filters i,.option-set .x-portfolio-filters i{border-color:#000101;}.x-nav-articles a:hover,.entry-top-navigation .entry-parent:hover,.option-set .x-index-filters:hover i,.option-set .x-portfolio-filters:hover i{background-color:#000101;}@media (max-width:978.98px){.x-content-sidebar-active .x-container.main:not(.x-row):not(.x-grid):before,.x-sidebar-content-active .x-container.main:not(.x-row):not(.x-grid):before{left:-5000em;}body .x-main .widget,body .x-main .widget a,body .x-main .widget a:hover,body .x-main .widget ul li a,body .x-main .widget ol li a,body .x-main .widget ul li a:hover,body .x-main .widget ol li a:hover,body .x-sidebar .widget,body .x-sidebar .widget a,body .x-sidebar .widget a:hover,body .x-sidebar .widget ul li a,body .x-sidebar .widget ol li a,body .x-sidebar .widget ul li a:hover,body .x-sidebar .widget ol li a:hover{color:rgb(77,77,75);}body .x-main .h-widget,body .x-main .widget.widget_pages .current_page_item a,body .x-main .widget.widget_nav_menu .current-menu-item a,body .x-main .widget.widget_pages .current_page_item a:hover,body .x-main .widget.widget_nav_menu .current-menu-item a:hover,body .x-sidebar .h-widget,body .x-sidebar .widget.widget_pages .current_page_item a,body .x-sidebar .widget.widget_nav_menu .current-menu-item a,body .x-sidebar .widget.widget_pages .current_page_item a:hover,body .x-sidebar .widget.widget_nav_menu .current-menu-item a:hover{color:#000101;}body .x-main .h-widget,body .x-main .widget.widget_pages .current_page_item,body .x-main .widget.widget_nav_menu .current-menu-item,body .x-sidebar .h-widget,body .x-sidebar .widget.widget_pages .current_page_item,body .x-sidebar .widget.widget_nav_menu .current-menu-item{border-color:#000101;}}@media (max-width:766.98px){.x-post-slider,.archive .x-post-slider{height:auto !important;}.x-post-slider .x-post-slider-entry,.archive .x-post-slider .x-post-slider-entry{padding-bottom:65% !important;}}html{font-size:16px;}@media (min-width:500px){html{font-size:calc(16px + (16 - 16) * ((100vw - 500px) / (1000 - 500)));}}@media (min-width:1000px){html{font-size:16px;}}body{font-style:normal;font-weight:300;color:rgb(77,77,75);background-color:#f3f3f3;}.w-b{font-weight:300 !important;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family:"Montserrat",sans-serif;font-style:normal;font-weight:700;}h1,.h1{letter-spacing:-0.035em;}h2,.h2{letter-spacing:-0.035em;}h3,.h3{letter-spacing:-0.035em;}h4,.h4{letter-spacing:-0.035em;}h5,.h5{letter-spacing:-0.035em;}h6,.h6{letter-spacing:-0.035em;}.w-h{font-weight:700 !important;}.x-container.width{width:88%;}.x-container.max{max-width:1200px;}.x-bar-content.x-container.width{flex-basis:88%;}.x-main.full{float:none;display:block;width:auto;}@media (max-width:978.98px){.x-main.full,.x-main.left,.x-main.right,.x-sidebar.left,.x-sidebar.right{float:none;display:block;width:auto !important;}}.entry-header,.entry-content{font-size:1rem;}body,input,button,select,textarea{font-family:"Roboto",sans-serif;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,.h1 a,.h2 a,.h3 a,.h4 a,.h5 a,.h6 a,blockquote{color:#000101;}.cfc-h-tx{color:#000101 !important;}.cfc-h-bd{border-color:#000101 !important;}.cfc-h-bg{background-color:#000101 !important;}.cfc-b-tx{color:rgb(77,77,75) !important;}.cfc-b-bd{border-color:rgb(77,77,75) !important;}.cfc-b-bg{background-color:rgb(77,77,75) !important;}.x-btn,.button,[type="submit"]{color:#ffffff;border-color:#25586c;background-color:#25586c;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);border-radius:0.25em;}.x-btn:hover,.button:hover,[type="submit"]:hover{color:#ffffff;border-color:#c04635;background-color:#c04635;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);}.x-btn.x-btn-real,.x-btn.x-btn-real:hover{margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);}.x-btn.x-btn-real{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real:hover{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-flat,.x-btn.x-btn-flat:hover{margin-bottom:0;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);box-shadow:none;}.x-btn.x-btn-transparent,.x-btn.x-btn-transparent:hover{margin-bottom:0;border-width:3px;text-shadow:none;text-transform:uppercase;background-color:transparent;box-shadow:none;}body .gform_wrapper .gfield_required{color:#c04635;}body .gform_wrapper h2.gsection_title,body .gform_wrapper h3.gform_title,body .gform_wrapper .top_label .gfield_label,body .gform_wrapper .left_label .gfield_label,body .gform_wrapper .right_label .gfield_label{font-weight:700;}body .gform_wrapper h2.gsection_title{letter-spacing:-0.035em!important;}body .gform_wrapper h3.gform_title{letter-spacing:-0.035em!important;}body .gform_wrapper .top_label .gfield_label,body .gform_wrapper .left_label .gfield_label,body .gform_wrapper .right_label .gfield_label{color:#000101;}body .gform_wrapper .validation_message{font-weight:300;}.bg .mejs-container,.x-video .mejs-container{position:unset !important;} @font-face{font-family:'FontAwesomePro';font-style:normal;font-weight:900;font-display:block;src:url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-solid-900.woff2') format('woff2'),url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-solid-900.woff') format('woff'),url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-solid-900.ttf') format('truetype');}[data-x-fa-pro-icon]{font-family:"FontAwesomePro" !important;}[data-x-fa-pro-icon]:before{content:attr(data-x-fa-pro-icon);}[data-x-icon],[data-x-icon-o],[data-x-icon-l],[data-x-icon-s],[data-x-icon-b],[data-x-fa-pro-icon],[class*="cs-fa-"]{display:inline-block;font-style:normal;font-weight:400;text-decoration:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}[data-x-icon].left,[data-x-icon-o].left,[data-x-icon-l].left,[data-x-icon-s].left,[data-x-icon-b].left,[data-x-fa-pro-icon].left,[class*="cs-fa-"].left{margin-right:0.5em;}[data-x-icon].right,[data-x-icon-o].right,[data-x-icon-l].right,[data-x-icon-s].right,[data-x-icon-b].right,[data-x-fa-pro-icon].right,[class*="cs-fa-"].right{margin-left:0.5em;}[data-x-icon]:before,[data-x-icon-o]:before,[data-x-icon-l]:before,[data-x-icon-s]:before,[data-x-icon-b]:before,[data-x-fa-pro-icon]:before,[class*="cs-fa-"]:before{line-height:1;}@font-face{font-family:'FontAwesome';font-style:normal;font-weight:900;font-display:block;src:url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-solid-900.woff2') format('woff2'),url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-solid-900.woff') format('woff'),url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-solid-900.ttf') format('truetype');}[data-x-icon],[data-x-icon-s],[data-x-icon][class*="cs-fa-"]{font-family:"FontAwesome" !important;font-weight:900;}[data-x-icon]:before,[data-x-icon][class*="cs-fa-"]:before{content:attr(data-x-icon);}[data-x-icon-s]:before{content:attr(data-x-icon-s);}@font-face{font-family:'FontAwesomeRegular';font-style:normal;font-weight:400;font-display:block;src:url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-regular-400.woff2') format('woff2'),url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-regular-400.woff') format('woff'),url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-regular-400.ttf') format('truetype');}@font-face{font-family:'FontAwesomePro';font-style:normal;font-weight:400;font-display:block;src:url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-regular-400.woff2') format('woff2'),url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-regular-400.woff') format('woff'),url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-regular-400.ttf') format('truetype');}[data-x-icon-o]{font-family:"FontAwesomeRegular" !important;}[data-x-icon-o]:before{content:attr(data-x-icon-o);}@font-face{font-family:'FontAwesomeLight';font-style:normal;font-weight:300;font-display:block;src:url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-light-300.woff2') format('woff2'),url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-light-300.woff') format('woff'),url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-light-300.ttf') format('truetype');}@font-face{font-family:'FontAwesomePro';font-style:normal;font-weight:300;font-display:block;src:url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-light-300.woff2') format('woff2'),url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-light-300.woff') format('woff'),url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-light-300.ttf') format('truetype');}[data-x-icon-l]{font-family:"FontAwesomeLight" !important;font-weight:300;}[data-x-icon-l]:before{content:attr(data-x-icon-l);}@font-face{font-family:'FontAwesomeBrands';font-style:normal;font-weight:normal;font-display:block;src:url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-brands-400.woff2') format('woff2'),url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-brands-400.woff') format('woff'),url('https://amprius.com/wp-content/themes/pro/cornerstone/assets/fonts/fa-brands-400.ttf') format('truetype');}[data-x-icon-b]{font-family:"FontAwesomeBrands" !important;}[data-x-icon-b]:before{content:attr(data-x-icon-b);} .m5lc-0.x-bar{height:6em;border-top-width:0px;border-right-width:0px;border-bottom-width:.5px;border-left-width:0px;border-top-style:none;border-right-style:none;border-bottom-style:solid;border-left-style:none;border-top-color:transparent;border-right-color:transparent;border-bottom-color:#599bae;border-left-color:transparent;font-size:16px;background-color:#000101;box-shadow:0em 0.15em 2em 0em rgba(0,0,0,0.15);z-index:9999;}.m5lc-0 .x-bar-content{flex-direction:row;justify-content:space-between;align-items:center;flex-grow:0;flex-shrink:1;flex-basis:88%;height:6em;}.m5lc-0.x-bar-outer-spacers:after,.m5lc-0.x-bar-outer-spacers:before{flex-basis:2em;width:2em!important;height:2em;}.m5lc-0.x-bar-space{font-size:16px;height:6em;}.m5lc-1.x-bar-container{flex-direction:row;justify-content:space-between;align-items:center;flex-grow:1;flex-shrink:0;flex-basis:auto;border:0;font-size:1em;z-index:1;}.m5lc-2.x-image{font-size:1em;border:0;}.m5lc-3{font-size:1em;}.m5lc-4{flex-direction:row;justify-content:space-around;align-items:stretch;align-self:stretch;flex-grow:0;flex-shrink:0;flex-basis:auto;}.m5lc-4 > li,.m5lc-4 > li > a{flex-grow:0;flex-shrink:1;flex-basis:auto;}.m5lc-5 [data-x-toggle-collapse]{transition-duration:300ms;transition-timing-function:cubic-bezier(0.400,0.000,0.200,1.000);}.m5lc-6 .x-dropdown {width:10em;font-size:16px;border:0;background-color:rgb(255,255,255);box-shadow:0em 0.15em 2em 0em rgba(0,0,0,0.15);transition-duration:500ms,500ms,0s;transition-timing-function:cubic-bezier(0.400,0.000,0.200,1.000);}.m5lc-6 .x-dropdown:not(.x-active) {transition-delay:0s,0s,500ms;}.m5lc-8.x-anchor {border:0;font-size:1em;}.m5lc-8.x-anchor .x-anchor-content {flex-direction:row;align-items:center;}.m5lc-a.x-anchor .x-anchor-content {justify-content:center;}.m5lc-b.x-anchor .x-anchor-content {padding-top:0.35em;padding-right:0.35em;padding-bottom:0.35em;padding-left:0.35em;}.m5lc-b.x-anchor .x-anchor-text {margin-right:5px;}.m5lc-b.x-anchor .x-anchor-sub-indicator {font-size:.85em;}.m5lc-c.x-anchor .x-anchor-text {margin-top:5px;margin-bottom:5px;margin-left:5px;}.m5lc-c.x-anchor .x-anchor-text-primary {font-style:normal;line-height:1;}.m5lc-c.x-anchor .x-anchor-sub-indicator {margin-top:5px;margin-right:5px;margin-bottom:5px;margin-left:5px;}.m5lc-d.x-anchor .x-anchor-text-primary {font-family:"Montserrat",sans-serif;}.m5lc-e.x-anchor .x-anchor-text-primary {font-size:1em;}.m5lc-f.x-anchor .x-anchor-text-primary {font-weight:600;color:rgb(192,190,190);}.m5lc-f.x-anchor:hover .x-anchor-text-primary,.m5lc-f.x-anchor[class*="active"] .x-anchor-text-primary,[data-x-effect-provider*="colors"]:hover .m5lc-f.x-anchor .x-anchor-text-primary {color:#ffffff;}.m5lc-f.x-anchor .x-anchor-sub-indicator {color:rgb(192,190,190);}.m5lc-f.x-anchor:hover .x-anchor-sub-indicator,.m5lc-f.x-anchor[class*="active"] .x-anchor-sub-indicator,[data-x-effect-provider*="colors"]:hover .m5lc-f.x-anchor .x-anchor-sub-indicator {color:#ffffff;}.m5lc-f > .is-primary {width:50%;height:3px;color:#c04635;transform-origin:100% 100%;}.m5lc-g.x-anchor {background-color:#000101;}.m5lc-g.x-anchor .x-anchor-content {justify-content:flex-start;padding-right:0.75em;padding-left:0.75em;}.m5lc-g.x-anchor .x-anchor-text-primary {font-size:.95em;}.m5lc-h.x-anchor .x-anchor-content {padding-top:0.75em;padding-bottom:0.75em;}.m5lc-i.x-anchor .x-anchor-text {margin-right:auto;}.m5lc-i.x-anchor .x-anchor-sub-indicator {font-size:1em;}.m5lc-j.x-anchor {width:3em;height:3em;border-top-left-radius:100em;border-top-right-radius:100em;border-bottom-right-radius:100em;border-bottom-left-radius:100em;box-shadow:0em 0.15em 0.65em 0em rgba(0,0,0,0.25);}.m5lc-j.x-anchor .x-graphic {margin-top:5px;margin-right:5px;margin-bottom:5px;margin-left:5px;}.m5lc-j.x-anchor .x-graphic-icon {font-size:1.25em;width:auto;border:0;color:rgba(0,0,0,1);}.m5lc-j.x-anchor:hover .x-graphic-icon,.m5lc-j.x-anchor[class*="active"] .x-graphic-icon,[data-x-effect-provider*="colors"]:hover .m5lc-j.x-anchor .x-graphic-icon {color:rgba(0,0,0,0.5);}.m5lc-j.x-anchor .x-toggle {color:rgb(217,29,4);}.m5lc-j.x-anchor .x-toggle-burger {width:10em;margin-top:3em;margin-right:0;margin-bottom:3em;margin-left:0;font-size:2px;}.m5lc-j.x-anchor .x-toggle-burger-bun-t {transform:translate3d(0,calc(3em * -1),0);}.m5lc-j.x-anchor .x-toggle-burger-bun-b {transform:translate3d(0,3em,0);}.m5lc-k.x-anchor {margin-top:2px;margin-right:0px;margin-bottom:2px;margin-left:0px;border-top-left-radius:4px;border-top-right-radius:4px;border-bottom-right-radius:4px;border-bottom-left-radius:4px;background-color:rgba(0,0,0,0.07);}.m5lc-k.x-anchor .x-anchor-content {padding-top:1em;padding-bottom:1em;}.m5lc-k.x-anchor:hover,.m5lc-k.x-anchor[class*="active"],[data-x-effect-provider*="colors"]:hover .m5lc-k.x-anchor {background-color:rgba(0,0,0,0.16);}.m5lc-k.x-anchor .x-anchor-text-primary {font-weight:700;}.m5lc-l.x-anchor .x-anchor-content {padding-right:1.25em;padding-left:1.25em;}.m5lc-l.x-anchor .x-anchor-text-primary {text-transform:uppercase;color:#f0f4f7;}.m5lc-l.x-anchor .x-anchor-sub-indicator {color:#f0f4f7;}.m5lc-m.x-anchor .x-anchor-text-primary {font-family:"Roboto",sans-serif;font-weight:300;}.m5lc-m.x-anchor:hover .x-anchor-text-primary,.m5lc-m.x-anchor[class*="active"] .x-anchor-text-primary,[data-x-effect-provider*="colors"]:hover .m5lc-m.x-anchor .x-anchor-text-primary {color:#c04635;}.m5lc-n{font-size:16px;transition-duration:500ms;}.m5lc-n .x-off-canvas-bg{background-color:rgba(0,0,0,0.75);transition-duration:500ms;transition-timing-function:cubic-bezier(0.400,0.000,0.200,1.000);}.m5lc-n .x-off-canvas-close{width:calc(1em * 2);height:calc(1em * 2);font-size:1em;color:#f0f4f7;transition-duration:0.3s,500ms,500ms;transition-timing-function:ease-in-out,cubic-bezier(0.400,0.000,0.200,1.000),cubic-bezier(0.400,0.000,0.200,1.000);}.m5lc-n .x-off-canvas-content{width:100%;max-width:24em;padding-top:calc(1em * 2);padding-right:calc(1em * 2);padding-bottom:calc(1em * 2);padding-left:calc(1em * 2);border:0;background-color:#193b48;box-shadow:0em 0em 2em 0em rgba(0,0,0,0.25);transition-duration:500ms;transition-timing-function:cubic-bezier(0.400,0.000,0.200,1.000);}  .m5mz-0.x-bar{height:auto;padding-right:0em;padding-left:0em;border:0;background-color:#000101;z-index:9999;}.m5mz-0 .x-bar-content{flex-direction:row;justify-content:space-between;height:auto;}.m5mz-1.x-bar{padding-top:8em;padding-bottom:0em;font-size:16px;}.m5mz-1 .x-bar-content{align-items:flex-start;flex-wrap:wrap;align-content:flex-start;flex-grow:0;flex-shrink:1;flex-basis:88%;max-width:1200px;}.m5mz-1.x-bar-outer-spacers:after,.m5mz-1.x-bar-outer-spacers:before{flex-basis:0em;width:0em!important;height:0em;}.m5mz-1.x-bar-space{font-size:16px;}.m5mz-2.x-bar{padding-top:0em;padding-bottom:6em;font-size:1em;box-shadow:0px 3px 25px 0px rgba(0,0,0,0.15);}.m5mz-2 .x-bar-content{align-items:center;}.m5mz-2.x-bar-outer-spacers:after,.m5mz-2.x-bar-outer-spacers:before{flex-basis:20px;width:20px!important;height:20px;}.m5mz-2.x-bar-space{font-size:1em;}.m5mz-3.x-bar-container{flex-direction:column;justify-content:center;margin-right:3em;margin-left:0em;}.m5mz-4.x-bar-container{align-items:flex-start;flex-grow:1;flex-shrink:0;flex-basis:40%;width:50%;margin-top:0em;margin-bottom:0em;z-index:1;}.m5mz-5.x-bar-container{border:0;font-size:1em;}.m5mz-7.x-bar-container{flex-direction:row;}.m5mz-8.x-bar-container{justify-content:flex-start;flex-wrap:wrap;align-content:flex-start;margin-right:0em;margin-left:3em;border-top-left-radius:25px;border-top-right-radius:25px;border-bottom-right-radius:25px;border-bottom-left-radius:25px;}.m5mz-9.x-bar-container{justify-content:space-between;align-items:center;flex-grow:0;flex-shrink:1;flex-basis:auto;z-index:auto;}.m5mz-a.x-text{margin-top:0em;margin-right:0em;margin-bottom:2em;margin-left:0em;}.m5mz-a.x-text .x-text-content-text-primary{font-size:1.5em;color:#c04635;}.m5mz-a.x-text .x-text-content-text-subheadline{margin-top:0.35em;font-family:"Roboto",sans-serif;font-size:1em;font-style:normal;font-weight:400;line-height:1.4;letter-spacing:0em;text-transform:none;color:#ffffff;}.m5mz-b.x-text{border:0;font-size:1em;}.m5mz-b.x-text .x-text-content-text-primary{font-family:"Montserrat",sans-serif;font-style:normal;font-weight:600;line-height:1.2;letter-spacing:0em;text-transform:none;}.m5mz-c.x-text{margin-top:1em;margin-right:1em;margin-bottom:1em;margin-left:1em;}.m5mz-c.x-text .x-text-content{flex-direction:row;justify-content:center;align-items:center;}.m5mz-c.x-text .x-text-content-text-primary{font-size:1em;color:#ffffff;}.m5mz-c.x-text .x-graphic {margin-top:0em;margin-right:0.5em;margin-bottom:0em;margin-left:0em;}.m5mz-c.x-text .x-graphic-icon {font-size:1.25em;width:auto;border:0;color:rgba(0,0,0,1);}.m5mz-d.x-div{flex-grow:0;flex-shrink:1;flex-basis:auto;border:0;font-size:1em;}.m5mz-e.x-div{display:flex;flex-direction:row;justify-content:center;align-items:flex-start;flex-wrap:wrap;align-content:flex-start;}.m5mz-f.x-anchor {margin-top:0em;margin-right:.5em;margin-bottom:1em;border:0;border-top-left-radius:60px;border-top-right-radius:60px;border-bottom-right-radius:60px;border-bottom-left-radius:60px;font-size:1em;background-color:rgb(77,77,75);}.m5mz-f.x-anchor .x-anchor-content {flex-direction:row-reverse;justify-content:center;align-items:center;padding-top:0.275em;padding-right:0.85em;padding-bottom:0.275em;padding-left:0.85em;}.m5mz-f.x-anchor:hover,.m5mz-f.x-anchor[class*="active"],[data-x-effect-provider*="colors"]:hover .m5mz-f.x-anchor {background-color:#25586c;}.m5mz-f.x-anchor .x-anchor-text {margin-top:5px;margin-right:5px;margin-bottom:5px;margin-left:5px;}.m5mz-f.x-anchor .x-anchor-text-primary {font-family:"Montserrat",sans-serif;font-size:.9em;font-style:normal;font-weight:600;line-height:1;text-transform:uppercase;color:#ffffff;}.m5mz-f.x-anchor .x-graphic {margin-top:5px;margin-right:5px;margin-bottom:5px;margin-left:5px;}.m5mz-f.x-anchor .x-graphic-icon {font-size:1em;width:auto;border:0;color:#f0f4f7;}.m5mz-g.x-anchor {margin-left:0em;}.m5mz-h.x-anchor {margin-left:.5em;}.m5mz-i.x-image{font-size:1em;margin-top:1em;margin-right:1em;margin-bottom:1em;margin-left:1em;border:0;}.m5mz-j.x-text{margin-top:1em;line-height:1.4;text-transform:none;}.m5mz-k.x-text{margin-right:0em;margin-bottom:2em;margin-left:0em;border:0;font-family:"Roboto",sans-serif;font-style:normal;font-weight:300;letter-spacing:0em;color:#ffffff;}.m5mz-k.x-text > :first-child{margin-top:0;}.m5mz-k.x-text > :last-child{margin-bottom:0;}.m5mz-l.x-text{font-size:.9em;}.m5mz-m.x-text{margin-top:0em;line-height:1.2;text-transform:uppercase;}.m5mz-n.x-text{font-size:1em;}@media screen and (min-width:767px) and (max-width:978.98px){.m5mz-h.x-anchor {margin-left:0em;}}@media screen and (max-width:766.98px){.m5mz-4.x-bar-container{flex-basis:100%;}.m5mz-8.x-bar-container{margin-left:0em;}.m5mz-h.x-anchor {margin-left:0.5em;}.m5mz-n.x-text{font-size:0.85em;}} @media (max-width:1192px){.e7307-e2.x-bar-container{justify-content:center;}} .m1fu-0.x-section{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;border:0;padding-right:0px;padding-left:0px;}.m1fu-1.x-section{padding-top:225px;padding-bottom:225px;}.m1fu-2.x-section{z-index:0;}.m1fu-3.x-section{padding-top:65px;padding-bottom:0px;z-index:1;}.m1fu-4.x-section{padding-top:125px;padding-bottom:125px;}.m1fu-5.x-section{background-color:#f0f4f7;}.m1fu-6.x-section{z-index:auto;}.m1fu-7.x-section{background-color:#ffffff;}.m1fu-8.x-section{background-color:#25586c;}:where(body:not(.tco-disable-effects)) .m1fu-9:is(.x-effect-exit,.x-effect-entering,.x-effect-exiting) {animation-delay:0ms;animation-duration:1000ms;animation-timing-function:cubic-bezier(0.400,0.000,0.200,1.000);transition-delay:0ms;transition-duration:1000ms;transition-timing-function:cubic-bezier(0.400,0.000,0.200,1.000);}.m1fu-9:is(.x-effect-enter){opacity:1;transform:translate(0px,0px);}:where(body:not(.tco-disable-effects)) .m1fu-9:is(.x-effect-exit){opacity:0;transform:translate(0px,1rem);}.m1fu-a{transform:translate(0px,-8em);}.m1fu-b.x-row{z-index:auto;margin-right:auto;margin-left:auto;border:0;padding-top:1px;padding-right:1px;padding-bottom:1px;padding-left:1px;font-size:1em;}.m1fu-b > .x-row-inner{flex-direction:row;justify-content:flex-start;align-items:stretch;align-content:stretch;}.m1fu-d > .x-row-inner{margin-top:calc(((20px / 2) + 1px) * -1);margin-right:calc(((20px / 2) + 1px) * -1);margin-bottom:calc(((20px / 2) + 1px) * -1);margin-left:calc(((20px / 2) + 1px) * -1);}.m1fu-d > .x-row-inner > *{margin-top:calc(20px / 2);margin-bottom:calc(20px / 2);margin-right:calc(20px / 2);margin-left:calc(20px / 2);}.m1fu-e > .x-row-inner{margin-top:calc(((1rem / 2) + 1px) * -1);margin-bottom:calc(((1rem / 2) + 1px) * -1);}.m1fu-e > .x-row-inner > *{margin-top:calc(1rem / 2);margin-bottom:calc(1rem / 2);}.m1fu-f > .x-row-inner{margin-right:calc(((2rem / 2) + 1px) * -1);margin-left:calc(((2rem / 2) + 1px) * -1);}.m1fu-f > .x-row-inner > *{margin-right:calc(2rem / 2);margin-left:calc(2rem / 2);}.m1fu-h > .x-row-inner{margin-top:calc(((2rem / 2) + 1px) * -1);margin-bottom:calc(((2rem / 2) + 1px) * -1);}.m1fu-h > .x-row-inner > *{margin-top:calc(2rem / 2);margin-bottom:calc(2rem / 2);}.m1fu-i.x-row{margin-top:2em;margin-bottom:0px;}.m1fu-j > .x-row-inner{margin-right:calc(((1rem / 2) + 1px) * -1);margin-left:calc(((1rem / 2) + 1px) * -1);}.m1fu-j > .x-row-inner > *{margin-right:calc(1rem / 2);margin-left:calc(1rem / 2);}.m1fu-k > .x-row-inner > *{flex-grow:1;}.m1fu-l{--gap:20px;}.m1fu-m > .x-row-inner > *:nth-child(2n - 0) {flex-basis:calc(50% - clamp(0px,var(--gap),9999px));}.m1fu-m > .x-row-inner > *:nth-child(2n - 1) {flex-basis:calc(50% - clamp(0px,var(--gap),9999px));}.m1fu-n > .x-row-inner > *:nth-child(2n - 0) {flex-basis:calc(50% - clamp(0px,var(--gap),9999px));}.m1fu-n > .x-row-inner > *:nth-child(2n - 1) {flex-basis:calc(50% - clamp(0px,var(--gap),9999px));}.m1fu-o{--gap:2rem;}.m1fu-p > .x-row-inner > *:nth-child(2n - 0) {flex-basis:calc(50% - clamp(0px,var(--gap),9999px));}.m1fu-p > .x-row-inner > *:nth-child(2n - 1) {flex-basis:calc(50% - clamp(0px,var(--gap),9999px));}.m1fu-q > .x-row-inner > *:nth-child(1n - 0) {flex-basis:calc(100% - clamp(0px,var(--gap),9999px));}.m1fu-r > .x-row-inner > *:nth-child(1n - 0) {flex-basis:calc(100% - clamp(0px,var(--gap),9999px));}.m1fu-s > .x-row-inner > *:nth-child(3n - 0) {flex-basis:calc(10% - clamp(0px,var(--gap),9999px));}.m1fu-s > .x-row-inner > *:nth-child(3n - 1) {flex-basis:calc(80% - clamp(0px,var(--gap),9999px));}.m1fu-s > .x-row-inner > *:nth-child(3n - 2) {flex-basis:calc(10% - clamp(0px,var(--gap),9999px));}.m1fu-t > .x-row-inner > *:nth-child(1n - 0) {flex-basis:calc(100% - clamp(0px,var(--gap),9999px));}.m1fu-u{--gap:1rem;}.m1fu-u > .x-row-inner > *:nth-child(2n - 0) {flex-basis:calc(50.29% - clamp(0px,var(--gap),9999px));}.m1fu-u > .x-row-inner > *:nth-child(2n - 1) {flex-basis:calc(49.71% - clamp(0px,var(--gap),9999px));}.m1fu-v > .x-row-inner > *:nth-child(2n - 0) {flex-basis:calc(62.46% - clamp(0px,var(--gap),9999px));}.m1fu-v > .x-row-inner > *:nth-child(2n - 1) {flex-basis:calc(37.54% - clamp(0px,var(--gap),9999px));}.m1fu-w > .x-row-inner > *:nth-child(3n - 0) {flex-basis:calc(15% - clamp(0px,var(--gap),9999px));}.m1fu-w > .x-row-inner > *:nth-child(3n - 1) {flex-basis:calc(70% - clamp(0px,var(--gap),9999px));}.m1fu-w > .x-row-inner > *:nth-child(3n - 2) {flex-basis:calc(15% - clamp(0px,var(--gap),9999px));}.m1fu-x.x-col{z-index:1;border:0;font-size:1em;}.m1fu-10.x-col{display:flex;flex-wrap:wrap;}.m1fu-11.x-col{flex-direction:column;}.m1fu-12.x-col{justify-content:flex-start;}.m1fu-13.x-col{align-items:flex-end;align-content:flex-end;}.m1fu-15.x-col{align-items:flex-start;align-content:flex-start;}.m1fu-16.x-col{padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em;background-color:#193b48c2;}.m1fu-17.x-col{justify-content:center;}.m1fu-18.x-col{align-items:center;align-content:center;}.m1fu-19.x-col{border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-right-radius:10px;border-bottom-left-radius:10px;padding-top:3em;padding-right:3em;padding-bottom:3em;padding-left:3em;}.m1fu-1a.x-col{box-shadow:1px 1px 10px 0px rgba(0,1,1,0.11);}.m1fu-1b.x-col{background-color:#ffffff;}.m1fu-1c.x-col{flex-direction:row;}.m1fu-1d.x-col{box-shadow:1px 1px 20px 0px rgba(0,0,0,0.1);}.m1fu-1e.x-text{border:0;font-size:1em;}.m1fu-1e.x-text .x-text-content-text-primary{font-family:"Montserrat",sans-serif;font-style:normal;font-weight:600;letter-spacing:0em;text-transform:none;}.m1fu-1f.x-text .x-text-content-text-primary{font-size:1.5em;}.m1fu-1g.x-text .x-text-content-text-primary{line-height:1.2;}.m1fu-1g.x-text .x-text-content-text-subheadline{margin-top:0.35em;font-size:2.5em;color:#ffffff;}.m1fu-1h.x-text .x-text-content-text-primary{text-align:right;}.m1fu-1h.x-text .x-text-content-text-subheadline{text-align:right;}.m1fu-1i.x-text .x-text-content-text-primary{color:rgb(255,83,60);}.m1fu-1j.x-text .x-text-content-text-subheadline{font-family:"Montserrat",sans-serif;font-weight:600;line-height:1;}.m1fu-1k.x-text .x-text-content-text-subheadline{font-style:normal;letter-spacing:0em;text-transform:none;}.m1fu-1l.x-text .x-text-content-text-primary{text-align:left;text-shadow:1px 1px 1px #000101;}.m1fu-1l.x-text .x-text-content-text-subheadline{text-align:left;text-shadow:1px 1px 1px #000101;}.m1fu-1m.x-text .x-text-content{flex-direction:column;justify-content:center;align-items:flex-start;}.m1fu-1m.x-text .x-text-content-text-primary{font-size:1.8em;}.m1fu-1m.x-text .x-text-content-text-subheadline{margin-top:1em;font-family:"Roboto",sans-serif;font-size:1.1em;font-weight:400;line-height:1.4;color:rgba(0,0,0,1);}.m1fu-1m.x-text .x-graphic {margin-top:0em;margin-right:0.5em;margin-bottom:2em;margin-left:0em;}.m1fu-1m.x-text .x-graphic-icon {font-size:1.25em;width:auto;border:0;color:rgba(0,0,0,1);}.m1fu-1n.x-text .x-text-content-text-primary{line-height:1;}.m1fu-1o.x-text .x-text-content-text-primary{color:#000101;}.m1fu-1p.x-text .x-text-content-text-primary{font-size:2.2em;line-height:1.1;}.m1fu-1q.x-text .x-text-content-text-primary{text-align:center;}.m1fu-1r.x-text .x-text-content-text-primary{color:#ffffff;}.m1fu-1s.x-text .x-text-content-text-primary{color:rgba(0,0,0,1);}.m1fu-1s.x-text .x-text-content-text-subheadline{margin-top:0.25em;font-size:1em;color:#c04635;}.m1fu-1t.x-text .x-text-content-text-primary{font-size:1.2em;color:#c04635;}.m1fu-1t.x-text .x-text-content-text-subheadline{text-align:center;}.m1fu-1u.x-image{font-size:1em;}.m1fu-1v.x-image{width:80%;margin-top:2em;margin-right:0px;margin-bottom:0px;margin-left:0px;}.m1fu-1w.x-image{border:0;}.m1fu-1x.x-image img{width:100%;}.m1fu-1y.x-image{margin-top:2px;margin-right:2px;margin-bottom:2px;margin-left:2px;}.m1fu-1z.x-image{width:150px;border-top-width:2px;border-right-width:2px;border-bottom-width:2px;border-left-width:2px;border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-top-color:#25586c;border-right-color:#25586c;border-bottom-color:#25586c;border-left-color:#25586c;border-top-left-radius:100%;border-top-right-radius:100%;border-bottom-right-radius:100%;border-bottom-left-radius:100%;box-shadow:1px 1px 20px 0em rgba(0,0,0,0.15);}.m1fu-1z.x-image img{border-top-left-radius:100%;border-top-right-radius:100%;border-bottom-right-radius:100%;border-bottom-left-radius:100%;object-fit:contain;}.m1fu-20.x-text{margin-top:1em;margin-right:10em;margin-bottom:0em;margin-left:10em;font-weight:400;text-align:center;}.m1fu-21.x-text{border:0;font-family:"Roboto",sans-serif;font-size:1em;font-style:normal;line-height:1.4;letter-spacing:0em;text-transform:none;}.m1fu-21.x-text > :first-child{margin-top:0;}.m1fu-21.x-text > :last-child{margin-bottom:0;}.m1fu-22.x-text{color:#ffffff;}.m1fu-23.x-text{color:#000101;}.m1fu-24.x-text{font-weight:300;}.m1fu-25.x-div{flex-grow:0;flex-shrink:1;flex-basis:auto;border:0;font-size:1em;}.m1fu-26.x-anchor {width:1em;height:1em;margin-top:.5em;margin-right:0em;margin-bottom:0.5em;margin-left:0em;border:0;font-size:1.5em;background-color:rgba(255,255,255,1);}.m1fu-26.x-anchor .x-anchor-content {flex-direction:row;justify-content:center;align-items:center;}.m1fu-26.x-anchor .x-graphic-icon {font-size:1em;width:auto;border:0;color:rgba(0,0,0,1);}.m1fu-26.x-anchor:hover .x-graphic-icon,.m1fu-26.x-anchor[class*="active"] .x-graphic-icon,[data-x-effect-provider*="colors"]:hover .m1fu-26.x-anchor .x-graphic-icon {color:#3b5998;}.m1fu-27.x-frame{width:100%;margin-top:2em;margin-right:0em;margin-bottom:2em;margin-left:0em;border:0;font-size:16px;background-color:rgb(255,255,255);}.m1fu-27 .x-frame-inner{padding-bottom:calc( 9 / 16 * 100% );}.m1fu-28 .x-mejs .mejs-controls{margin-top:auto;margin-right:15px;margin-bottom:15px;margin-left:15px;border:0;border-top-left-radius:3px;border-top-right-radius:3px;border-bottom-right-radius:3px;border-bottom-left-radius:3px;background-color:rgba(0,0,0,0.8);}.m1fu-28 .x-mejs video{object-fit:fill;object-position:50% 50%;}.m1fu-28 .x-mejs .mejs-button button{color:rgba(255,255,255,0.5);}.m1fu-28 .x-mejs .mejs-button button:focus,.m1fu-28 .x-mejs .mejs-button button:hover{color:rgba(255,255,255,1);}.m1fu-28 .x-mejs .mejs-time-total{border-top-left-radius:2px;border-top-right-radius:2px;border-bottom-right-radius:2px;border-bottom-left-radius:2px;background-color:rgba(255,255,255,0.25);}.m1fu-28 .x-mejs .mejs-time-loaded{background-color:rgba(255,255,255,0.25);}.m1fu-28 .x-mejs .mejs-time-current{background-color:rgba(255,255,255,1);}.m1fu-28 .x-mejs .mejs-time{color:rgba(255,255,255,0.5);}@media screen and (max-width:1199.98px){.m1fu-g > .x-row-inner{margin-right:calc(((1rem / 2) + 1px) * -1);margin-left:calc(((1rem / 2) + 1px) * -1);}.m1fu-g > .x-row-inner > *{margin-right:calc(1rem / 2);margin-left:calc(1rem / 2);}.m1fu-m > .x-row-inner > *:nth-child(2n - 0) {flex-basis:calc(63.99% - clamp(0px,var(--gap),9999px));}.m1fu-m > .x-row-inner > *:nth-child(2n - 1) {flex-basis:calc(36.01% - clamp(0px,var(--gap),9999px));}.m1fu-n > .x-row-inner > *:nth-child(2n - 0) {flex-basis:calc(39.96% - clamp(0px,var(--gap),9999px));}.m1fu-n > .x-row-inner > *:nth-child(2n - 1) {flex-basis:calc(60.04% - clamp(0px,var(--gap),9999px));}.m1fu-p{--gap:1rem;}.m1fu-p > .x-row-inner > *:nth-child(2n - 0) {flex-basis:calc(50% - clamp(0px,var(--gap),9999px));}.m1fu-p > .x-row-inner > *:nth-child(2n - 1) {flex-basis:calc(50% - clamp(0px,var(--gap),9999px));}.m1fu-s > .x-row-inner > *:nth-child(1n - 0) {flex-basis:calc(100% - clamp(0px,var(--gap),9999px));}.m1fu-v > .x-row-inner > *:nth-child(1n - 0) {flex-basis:calc(100% - clamp(0px,var(--gap),9999px));}}@media screen and (max-width:978.98px){.m1fu-1.x-section{padding-top:125px;padding-bottom:165px;}.m1fu-m > .x-row-inner > *:nth-child(2n - 0) {flex-basis:calc(78.96% - clamp(0px,var(--gap),9999px));}.m1fu-m > .x-row-inner > *:nth-child(2n - 1) {flex-basis:calc(21.04% - clamp(0px,var(--gap),9999px));}.m1fu-n > .x-row-inner > *:nth-child(2n - 0) {flex-basis:calc(37.93% - clamp(0px,var(--gap),9999px));}.m1fu-n > .x-row-inner > *:nth-child(2n - 1) {flex-basis:calc(62.07% - clamp(0px,var(--gap),9999px));}.m1fu-20.x-text{margin-right:0em;margin-left:0em;}}@media screen and (max-width:766.98px){.m1fu-m > .x-row-inner > *:nth-child(1n - 0) {flex-basis:calc(100% - clamp(0px,var(--gap),9999px));}.m1fu-n > .x-row-inner > *:nth-child(1n - 0) {flex-basis:calc(100% - clamp(0px,var(--gap),9999px));}.m1fu-p > .x-row-inner > *:nth-child(1n - 0) {flex-basis:calc(100% - clamp(0px,var(--gap),9999px));}.m1fu-u > .x-row-inner > *:nth-child(1n - 0) {flex-basis:calc(100% - clamp(0px,var(--gap),9999px));}.m1fu-w > .x-row-inner > *:nth-child(1n - 0) {flex-basis:calc(100% - clamp(0px,var(--gap),9999px));}.m1fu-1d.x-col{padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em;}.m1fu-1i.x-text .x-text-content-text-subheadline{font-size:2em;}.m1fu-1v.x-image{width:100%;}}@media screen and (max-width:479.98px){.m1fu-14.x-col{align-items:center;align-content:center;}.m1fu-16.x-col{padding-top:1em;padding-right:1em;padding-bottom:1em;padding-left:1em;}.m1fu-1a.x-col{padding-top:2em;padding-right:2em;padding-bottom:2em;padding-left:2em;}.m1fu-1i.x-text .x-text-content-text-primary{text-align:center;}.m1fu-1i.x-text .x-text-content-text-subheadline{text-align:center;}.m1fu-1y.x-image{width:40%;}.m1fu-1y.x-image img{width:100%;}} .e1866-e23{background:rgb(3,6,8);background:linear-gradient(180deg,rgba(3,6,8,1) 0%,rgba(21,50,62,1) 50%,rgba(37,88,108,1) 100%);}.e1866-e58{background:rgb(3,6,8);background:linear-gradient(180deg,rgba(3,6,8,1) 0%,rgba(21,50,62,1) 50%,rgba(37,88,108,1) 100%);} p{margin:0 0 1.2em;}.entry-thumb{text-align:center;}.single-post .x-main.full .hentry .entry-featured img{display:none;}.single-post .x-container.max.width.main{width:100%;max-width:100%;margin-bottom:-35px;}.single-post p{margin:0 1.2 1.2em;}.single-post a{font-weight:800;}.entry-thumb img,.x-comments-area,#disqus_thread,.single-post .entry-header,.swp_social_panel:not(.nc_floater):not(.nc_socialPanelSide){width:88%;max-width:1200px;clear:both;float:none;margin-left:auto;margin-right:auto;}.nc_socialPanel{margin-top:40px !important;margin-bottom:40px !important;}.nc_floater{float:none;margin-left:auto;margin-right:auto;left:0px !important;}.pagebgf .top_label .gfield_label,.pagebgf .field_sublabel_below .ginput_complex.ginput_container label{display:none !important;}.pagebgf textarea,.pagebgf input[type="text"],.pagebgf input[type="email"],.pagebgf input[type="tel"],.pagebgf input[type="number"]{font-size:14px !important;padding:10px 10px !important;}.pagebgf ::placeholder{color:#000 !important;}.cp-target.cp-field-element.cp-text.cp-form-field.cp-form-input-field.cp-text-field{padding-left:45px !important;}.cp-target.cp-field-element.cp-form-input-field.cp-form-field.cp-email.cp-email-field{padding-left:45px !important;}.pagebgf .gform_footer{text-align:center;}.pagebgf [type="submit"]{text-shadow:0 0em 0em rgba(0,0,0,0);padding:15px 40px;font-size:18px !important;font-weight:800;text-transform:uppercase;margin:0 !important;border-radius:10px;}.gform_required_legend{display:none;}.animation-container{width:320px !important;height:320px !important;position:relative;margin-left:auto;margin-right:auto;}.animation-container .rings{width:320px;height:320px;position:absolute;z-index:90;top:0px;left:0px;}.animation-container .battery{width:100px;height:131px;}.animation-container .anim-icon{background:rgba(0,44,53,0.8);border-radius:100%;width:80px;height:80px;-webkit-backface-visibility:hidden;backface-visibility:hidden;-webkit-perspective:1000;perspective:1000;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0);-webkit-transform:translateZ(0);transform:translateZ(0);position:absolute;z-index:95;opacity:0;}.animation-container .anim-icon:nth-child(1){top:-32px;left:13%;}.animation-container .anim-icon:nth-child(2){top:-22px;left:74%;}.animation-container .anim-icon:nth-child(3){top:45%;right:-44px;}.animation-container .anim-icon:nth-child(4){bottom:-27px;right:20%;}.animation-container .anim-icon:nth-child(5){bottom:7px;left:0%;}.animation-container .anim-icon:nth-child(6){top:100px;left:-18%;}.animation-container .anim-icon .anim-icon-svg{width:60px;height:60px;}@media (min-width:821px) and (max-width:990px){.animation-container{margin-top:40px !important;}}@media (max-width:820px){.animation-container{margin:68px auto !important;}}.align-items-center{-webkit-box-align:center !important;-ms-flex-align:center !important;align-items:center !important;}.justify-content-center{-webkit-box-pack:center !important;-ms-flex-pack:center !important;justify-content:center !important;}.d-flex{display:-webkit-box !important;display:-ms-flexbox !important;display:flex !important;}
-</style>
-<script type='text/javascript' src='https://amprius.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
-<script type='text/javascript' src='https://amprius.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
-<script type='text/javascript' id='cookie-law-info-js-extra'>
+<link rel='stylesheet' id='screen-css' href='https://factorialenergy.com/wp-content/themes/factorial/style.css?ver=6.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js' id='jquery-js'></script>
+<script type='text/javascript' id='ad-google-analytics-js-extra'>
 /* <![CDATA[ */
-var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
-var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#d0392b","button_1_button_hover":"#a62e22","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#d0392b","button_3_button_hover":"#a62e22","button_3_link_colour":"#fff","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#333333","button_4_as_button":"","button_7_button_colour":"#d0392b","button_7_button_hover":"#a62e22","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#333333","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
-var log_object = {"ajax_url":"https:\/\/amprius.com\/wp-admin\/admin-ajax.php"};
+var aga_event_data = {"options":{"event_downloads":"zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*","root_domain":"factorialenergy.com"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://amprius.com/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=3.1.4' id='cookie-law-info-js'></script>
-<link rel="https://api.w.org/" href="https://amprius.com/wp-json/" /><link rel="alternate" type="application/json" href="https://amprius.com/wp-json/wp/v2/pages/1866" /><link rel='shortlink' href='https://amprius.com/?p=1866' />
-<link rel="alternate" type="application/json+oembed" href="https://amprius.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Famprius.com%2Fabout%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://amprius.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Famprius.com%2Fabout%2F&#038;format=xml" />
+<script type='text/javascript' src='https://factorialenergy.com/wp-content/plugins/ad-google-analytics/public/js/ad-google-analytics-public.js?ver=1.0.6' id='ad-google-analytics-js' async></script>
 
-		<!-- GA Google Analytics @ https://m0n.co/ga -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-1JE8FM1HQP"></script>
-		<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
-			gtag('config', 'G-1JE8FM1HQP');
-		</script>
+<!-- Google Analytics snippet added by Site Kit -->
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-193907161-1' id='google_gtagjs-js' async></script>
+<script id="google_gtagjs-js-after" type="text/javascript">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["factorialenergy.com"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-193907161-1", {"anonymize_ip":true});
+</script>
 
-	<script type="text/javascript"> (function(c,l,a,r,i,t,y){ c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)}; t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i; y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y); })(window, document, "clarity", "script", "b0xprp4r3x"); </script><noscript><style>.wp-grid-builder .wpgb-card.wpgb-card-hidden .wpgb-card-wrapper{opacity:1!important;visibility:visible!important;transform:none!important}.wpgb-facet {opacity:1!important;pointer-events:auto!important}.wpgb-facet *:not(.wpgb-pagination-facet){display:none}</style></noscript><style type="text/css">
-	span.oe_textdirection { unicode-bidi: bidi-override; direction: rtl; }
-	span.oe_displaynone { display: none; }
-</style>
-<link rel="icon" href="https://amprius.com/wp-content/uploads/2021/03/cropped-favicon-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://amprius.com/wp-content/uploads/2021/03/cropped-favicon-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://amprius.com/wp-content/uploads/2021/03/cropped-favicon-180x180.png" />
-<meta name="msapplication-TileImage" content="https://amprius.com/wp-content/uploads/2021/03/cropped-favicon-270x270.png" />
-<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300i,700,700i,400,400i%7CMontserrat:400,400i,700,700i,600,600i&#038;subset=latin,latin-ext&#038;display=auto" type="text/css" media="all" crossorigin="anonymous" data-x-google-fonts></link></head>
-<body class="page-template page-template-template-blank-4 page-template-template-blank-4-php page page-id-1866 x-ethos x-child-theme-active x-full-width-layout-active x-full-width-active x-post-meta-disabled pro-v6_3_9">
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="alternate" type="application/json+oembed" href="https://factorialenergy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffactorialenergy.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://factorialenergy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffactorialenergy.com%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.111.0" /><link rel="icon" href="https://factorialenergy.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://factorialenergy.com/wp-content/uploads/cropped-android-chrome-512x512-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://factorialenergy.com/wp-content/uploads/cropped-android-chrome-512x512-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://factorialenergy.com/wp-content/uploads/cropped-android-chrome-512x512-1-270x270.png" />
 
+  <script type="text/javascript">
+  /*! WOW - v1.1.3 - 2016-05-06
+  * Copyright (c) 2016 Matthieu Aussaguel;*/(function(){var a,b,c,d,e,f=function(a,b){return function(){return a.apply(b,arguments)}},g=[].indexOf||function(a){for(var b=0,c=this.length;c>b;b++)if(b in this&&this[b]===a)return b;return-1};b=function(){function a(){}return a.prototype.extend=function(a,b){var c,d;for(c in b)d=b[c],null==a[c]&&(a[c]=d);return a},a.prototype.isMobile=function(a){return/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(a)},a.prototype.createEvent=function(a,b,c,d){var e;return null==b&&(b=!1),null==c&&(c=!1),null==d&&(d=null),null!=document.createEvent?(e=document.createEvent("CustomEvent"),e.initCustomEvent(a,b,c,d)):null!=document.createEventObject?(e=document.createEventObject(),e.eventType=a):e.eventName=a,e},a.prototype.emitEvent=function(a,b){return null!=a.dispatchEvent?a.dispatchEvent(b):b in(null!=a)?a[b]():"on"+b in(null!=a)?a["on"+b]():void 0},a.prototype.addEvent=function(a,b,c){return null!=a.addEventListener?a.addEventListener(b,c,!1):null!=a.attachEvent?a.attachEvent("on"+b,c):a[b]=c},a.prototype.removeEvent=function(a,b,c){return null!=a.removeEventListener?a.removeEventListener(b,c,!1):null!=a.detachEvent?a.detachEvent("on"+b,c):delete a[b]},a.prototype.innerHeight=function(){return"innerHeight"in window?window.innerHeight:document.documentElement.clientHeight},a}(),c=this.WeakMap||this.MozWeakMap||(c=function(){function a(){this.keys=[],this.values=[]}return a.prototype.get=function(a){var b,c,d,e,f;for(f=this.keys,b=d=0,e=f.length;e>d;b=++d)if(c=f[b],c===a)return this.values[b]},a.prototype.set=function(a,b){var c,d,e,f,g;for(g=this.keys,c=e=0,f=g.length;f>e;c=++e)if(d=g[c],d===a)return void(this.values[c]=b);return this.keys.push(a),this.values.push(b)},a}()),a=this.MutationObserver||this.WebkitMutationObserver||this.MozMutationObserver||(a=function(){function a(){"undefined"!=typeof console&&null!==console&&console.warn("MutationObserver is not supported by your browser."),"undefined"!=typeof console&&null!==console&&console.warn("WOW.js cannot detect dom mutations, please call .sync() after loading new content.")}return a.notSupported=!0,a.prototype.observe=function(){},a}()),d=this.getComputedStyle||function(a,b){return this.getPropertyValue=function(b){var c;return"float"===b&&(b="styleFloat"),e.test(b)&&b.replace(e,function(a,b){return b.toUpperCase()}),(null!=(c=a.currentStyle)?c[b]:void 0)||null},this},e=/(\-([a-z]){1})/g,this.WOW=function(){function e(a){null==a&&(a={}),this.scrollCallback=f(this.scrollCallback,this),this.scrollHandler=f(this.scrollHandler,this),this.resetAnimation=f(this.resetAnimation,this),this.start=f(this.start,this),this.scrolled=!0,this.config=this.util().extend(a,this.defaults),null!=a.scrollContainer&&(this.config.scrollContainer=document.querySelector(a.scrollContainer)),this.animationNameCache=new c,this.wowEvent=this.util().createEvent(this.config.boxClass)}return e.prototype.defaults={boxClass:"wow",animateClass:"animated",offset:0,mobile:!0,live:!0,callback:null,scrollContainer:null},e.prototype.init=function(){var a;return this.element=window.document.documentElement,"interactive"===(a=document.readyState)||"complete"===a?this.start():this.util().addEvent(document,"DOMContentLoaded",this.start),this.finished=[]},e.prototype.start=function(){var b,c,d,e;if(this.stopped=!1,this.boxes=function(){var a,c,d,e;for(d=this.element.querySelectorAll("."+this.config.boxClass),e=[],a=0,c=d.length;c>a;a++)b=d[a],e.push(b);return e}.call(this),this.all=function(){var a,c,d,e;for(d=this.boxes,e=[],a=0,c=d.length;c>a;a++)b=d[a],e.push(b);return e}.call(this),this.boxes.length)if(this.disabled())this.resetStyle();else for(e=this.boxes,c=0,d=e.length;d>c;c++)b=e[c],this.applyStyle(b,!0);return this.disabled()||(this.util().addEvent(this.config.scrollContainer||window,"scroll",this.scrollHandler),this.util().addEvent(window,"resize",this.scrollHandler),this.interval=setInterval(this.scrollCallback,50)),this.config.live?new a(function(a){return function(b){var c,d,e,f,g;for(g=[],c=0,d=b.length;d>c;c++)f=b[c],g.push(function(){var a,b,c,d;for(c=f.addedNodes||[],d=[],a=0,b=c.length;b>a;a++)e=c[a],d.push(this.doSync(e));return d}.call(a));return g}}(this)).observe(document.body,{childList:!0,subtree:!0}):void 0},e.prototype.stop=function(){return this.stopped=!0,this.util().removeEvent(this.config.scrollContainer||window,"scroll",this.scrollHandler),this.util().removeEvent(window,"resize",this.scrollHandler),null!=this.interval?clearInterval(this.interval):void 0},e.prototype.sync=function(b){return a.notSupported?this.doSync(this.element):void 0},e.prototype.doSync=function(a){var b,c,d,e,f;if(null==a&&(a=this.element),1===a.nodeType){for(a=a.parentNode||a,e=a.querySelectorAll("."+this.config.boxClass),f=[],c=0,d=e.length;d>c;c++)b=e[c],g.call(this.all,b)<0?(this.boxes.push(b),this.all.push(b),this.stopped||this.disabled()?this.resetStyle():this.applyStyle(b,!0),f.push(this.scrolled=!0)):f.push(void 0);return f}},e.prototype.show=function(a){return this.applyStyle(a),a.className=a.className+" "+this.config.animateClass,null!=this.config.callback&&this.config.callback(a),this.util().emitEvent(a,this.wowEvent),this.util().addEvent(a,"animationend",this.resetAnimation),this.util().addEvent(a,"oanimationend",this.resetAnimation),this.util().addEvent(a,"webkitAnimationEnd",this.resetAnimation),this.util().addEvent(a,"MSAnimationEnd",this.resetAnimation),a},e.prototype.applyStyle=function(a,b){var c,d,e;return d=a.getAttribute("data-wow-duration"),c=a.getAttribute("data-wow-delay"),e=a.getAttribute("data-wow-iteration"),this.animate(function(f){return function(){return f.customStyle(a,b,d,c,e)}}(this))},e.prototype.animate=function(){return"requestAnimationFrame"in window?function(a){return window.requestAnimationFrame(a)}:function(a){return a()}}(),e.prototype.resetStyle=function(){var a,b,c,d,e;for(d=this.boxes,e=[],b=0,c=d.length;c>b;b++)a=d[b],e.push(a.style.visibility="visible");return e},e.prototype.resetAnimation=function(a){var b;return a.type.toLowerCase().indexOf("animationend")>=0?(b=a.target||a.srcElement,b.className=b.className.replace(this.config.animateClass,"").trim()):void 0},e.prototype.customStyle=function(a,b,c,d,e){return b&&this.cacheAnimationName(a),a.style.visibility=b?"hidden":"visible",c&&this.vendorSet(a.style,{animationDuration:c}),d&&this.vendorSet(a.style,{animationDelay:d}),e&&this.vendorSet(a.style,{animationIterationCount:e}),this.vendorSet(a.style,{animationName:b?"none":this.cachedAnimationName(a)}),a},e.prototype.vendors=["moz","webkit"],e.prototype.vendorSet=function(a,b){var c,d,e,f;d=[];for(c in b)e=b[c],a[""+c]=e,d.push(function(){var b,d,g,h;for(g=this.vendors,h=[],b=0,d=g.length;d>b;b++)f=g[b],h.push(a[""+f+c.charAt(0).toUpperCase()+c.substr(1)]=e);return h}.call(this));return d},e.prototype.vendorCSS=function(a,b){var c,e,f,g,h,i;for(h=d(a),g=h.getPropertyCSSValue(b),f=this.vendors,c=0,e=f.length;e>c;c++)i=f[c],g=g||h.getPropertyCSSValue("-"+i+"-"+b);return g},e.prototype.animationName=function(a){var b;try{b=this.vendorCSS(a,"animation-name").cssText}catch(c){b=d(a).getPropertyValue("animation-name")}return"none"===b?"":b},e.prototype.cacheAnimationName=function(a){return this.animationNameCache.set(a,this.animationName(a))},e.prototype.cachedAnimationName=function(a){return this.animationNameCache.get(a)},e.prototype.scrollHandler=function(){return this.scrolled=!0},e.prototype.scrollCallback=function(){var a;return!this.scrolled||(this.scrolled=!1,this.boxes=function(){var b,c,d,e;for(d=this.boxes,e=[],b=0,c=d.length;c>b;b++)a=d[b],a&&(this.isVisible(a)?this.show(a):e.push(a));return e}.call(this),this.boxes.length||this.config.live)?void 0:this.stop()},e.prototype.offsetTop=function(a){for(var b;void 0===a.offsetTop;)a=a.parentNode;for(b=a.offsetTop;a=a.offsetParent;)b+=a.offsetTop;return b},e.prototype.isVisible=function(a){var b,c,d,e,f;return c=a.getAttribute("data-wow-offset")||this.config.offset,f=this.config.scrollContainer&&this.config.scrollContainer.scrollTop||window.pageYOffset,e=f+Math.min(this.element.clientHeight,this.util().innerHeight())-c,d=this.offsetTop(a),b=d+a.clientHeight,e>=d&&b>=f},e.prototype.util=function(){return null!=this._util?this._util:this._util=new b},e.prototype.disabled=function(){return!this.config.mobile&&this.util().isMobile(navigator.userAgent)},e}()}).call(this);
+
+  var wow = new WOW(
+    {
+      offset:       125,      // distance to the element when triggering the animation (default is 0)
+      mobile:       false,  // trigger animations on mobile devices (default is true)
+      live:         false   // act on asynchronously loaded content (default is true)
+    }
+  );
+
+  wow.init();
+
+  </script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MZGN82P');</script>
+<!-- End Google Tag Manager -->	
+	
+  </head>
+
+
+  <body class="page-10">
+	  
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MZGN82P"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->	  
+	  
+  <div class="root">
+  <!-- Begin ADA Skip to Main Content -->
+  <div class="ada-banner">
+  <a class="skip-main" href="#main">Skip to main content</a>
+  </div>
+  <!-- End ADA Skip to Main Content -->
+  <!--Begin Header-->
+  <header class="header" role="banner" >
+  <!--Begin Logo-->
   
-  
-  <div id="x-root" class="x-root">
+  <a href="/" class="logo">
+  <img width="306" height="182" src="https://factorialenergy.com/wp-content/uploads/factorial-logo-black.png" class="attachment-full size-full" alt="Factorial Logo" decoding="async" fetchpriority="high" srcset="https://factorialenergy.com/wp-content/uploads/factorial-logo-black.png 306w, https://factorialenergy.com/wp-content/uploads/factorial-logo-black-300x178.png 300w" sizes="(max-width: 306px) 100vw, 306px" />  </a>
 
-    
-    <div id="x-site" class="x-site site">
+  <!--End Logo-->
+  <!--Begin Drawer-->
+  <button class="drawer-toggle reset"><span></span></button>
+  <div class="drawer">
+  <!--Begin Main Menu-->
+  <nav data-scroll-header class="menu" aria-label="Main Menu" role="navigation menu" >
+  <ul>
+  <li><a href="#partners-investors"  class="d-none scroll-link">Partners and Investors</a></li><li><a href="https://factorialenergy.com/news-media" >Newsroom</a></li><li><a href="https://factorialenergy.com/careers" >Careers</a></li><li><a href="https://factorialenergy.com/blog" >Blog</a></li>  </ul>
+  </nav>
+  <!--End Main Menu-->
+  <!--Begin Utility Links-->
+  <div class="utility-links flex flex-middle">
+  <a class="caps popup-get-in-touch" href="#get-in-touch">
+  <span class="icon-mail"></span> Get In Touch</a>
+  <a class="flex flex-center flex-middle icon-item " target="_blank" href="https://www.linkedin.com/company/factorial-inc">
+  <span class="icon-linkedin"></span>
+  </a>
+  <a class="flex flex-center flex-middle icon-item " target="_blank" href="https://twitter.com/FactorialEnergy">
+  <span class="icon-twitter"></span>
+  </a>
+  </div>
+  <!--End Utility Links-->
+  </div>
+  <!--End Drawer-->
+  <!--Begin Mobile Menu Body Overlay-->
+  <div class="content-overlay"><span class="icon-close"></span></div>
+  <!--End Mobile Menu Body Overlay-->
+  </header>
+  <!--End Header-->
+<!-- End Header -->
 
-      <header class="x-masthead" role="banner">
-        <div class="x-bar x-bar-top x-bar-h x-bar-relative x-bar-outer-spacers e7248-e1 m5lc-0" data-x-bar="{&quot;id&quot;:&quot;e7248-e1&quot;,&quot;region&quot;:&quot;top&quot;,&quot;height&quot;:&quot;6em&quot;}"><div class="e7248-e1 x-bar-content"><div class="x-bar-container e7248-e2 m5lc-1"><a class="x-image e7248-e3 m5lc-2" href="https://amprius.com" rel="nofollow"><img src="https://amprius.com/wp-content/uploads/2021/02/logo-rw@2x.png" width="85" height="40" alt="Image" loading="lazy"></a><ul class="x-menu-first-level x-menu x-menu-inline x-hide-md x-hide-sm x-hide-xs e7248-e4 m5lc-3 m5lc-4 m5lc-6"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1866 current_page_item menu-item-1896" id="menu-item-1896"><a class="x-anchor x-anchor-menu-item has-particle m5lc-7 m5lc-8 m5lc-9 m5lc-a m5lc-b m5lc-c m5lc-d m5lc-e m5lc-f x-always-active" tabindex="0" href="https://amprius.com/about/"><span class="x-particle is-primary" data-x-particle="scale-y inside-b_c" aria-hidden="true"><span style=""></span></span><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">About</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-s="&#xf107;"></i></div></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1899" id="menu-item-1899"><a class="x-anchor x-anchor-menu-item has-particle m5lc-7 m5lc-8 m5lc-9 m5lc-a m5lc-b m5lc-c m5lc-d m5lc-e m5lc-f" tabindex="0" href="https://amprius.com/technology/"><span class="x-particle is-primary" data-x-particle="scale-y inside-b_c" aria-hidden="true"><span style=""></span></span><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Technology</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-s="&#xf107;"></i></div></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7672" id="menu-item-7672"><a class="x-anchor x-anchor-menu-item has-particle m5lc-7 m5lc-8 m5lc-9 m5lc-a m5lc-b m5lc-c m5lc-d m5lc-e m5lc-f" tabindex="0" href="https://amprius.com/products/"><span class="x-particle is-primary" data-x-particle="scale-y inside-b_c" aria-hidden="true"><span style=""></span></span><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Products</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-s="&#xf107;"></i></div></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7602" id="menu-item-7602"><a class="x-anchor x-anchor-menu-item has-particle m5lc-7 m5lc-8 m5lc-9 m5lc-a m5lc-b m5lc-c m5lc-d m5lc-e m5lc-f" tabindex="0" href="https://amprius.com/facility/"><span class="x-particle is-primary" data-x-particle="scale-y inside-b_c" aria-hidden="true"><span style=""></span></span><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Colorado Facility</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-s="&#xf107;"></i></div></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6476" id="menu-item-6476"><a class="x-anchor x-anchor-menu-item has-particle m5lc-7 m5lc-8 m5lc-9 m5lc-a m5lc-b m5lc-c m5lc-d m5lc-e m5lc-f" tabindex="0" href="https://amprius.com/media-center/"><span class="x-particle is-primary" data-x-particle="scale-y inside-b_c" aria-hidden="true"><span style=""></span></span><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Media</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-s="&#xf107;"></i></div></a><ul class="sub-menu x-dropdown" data-x-depth="0" data-x-stem data-x-stem-menu-top><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7328" id="menu-item-7328"><a class="x-anchor x-anchor-menu-item has-particle m5lc-7 m5lc-8 m5lc-9 m5lc-c m5lc-d m5lc-f m5lc-g m5lc-h m5lc-i" tabindex="0" href="https://amprius.com/recent-announcements/"><span class="x-particle is-primary" data-x-particle="scale-y inside-b_l" aria-hidden="true"><span style=""></span></span><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Recent Announcements</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-s="&#xf107;"></i></div></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7329" id="menu-item-7329"><a class="x-anchor x-anchor-menu-item has-particle m5lc-7 m5lc-8 m5lc-9 m5lc-c m5lc-d m5lc-f m5lc-g m5lc-h m5lc-i" tabindex="0" href="https://amprius.com/media-coverage/"><span class="x-particle is-primary" data-x-particle="scale-y inside-b_l" aria-hidden="true"><span style=""></span></span><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Media Coverage</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-s="&#xf107;"></i></div></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7327" id="menu-item-7327"><a class="x-anchor x-anchor-menu-item has-particle m5lc-7 m5lc-8 m5lc-9 m5lc-c m5lc-d m5lc-f m5lc-g m5lc-h m5lc-i" tabindex="0" href="https://amprius.com/blog/"><span class="x-particle is-primary" data-x-particle="scale-y inside-b_l" aria-hidden="true"><span style=""></span></span><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Blog</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-s="&#xf107;"></i></div></a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7126" id="menu-item-7126"><a class="x-anchor x-anchor-menu-item has-particle m5lc-7 m5lc-8 m5lc-9 m5lc-a m5lc-b m5lc-c m5lc-d m5lc-e m5lc-f" tabindex="0" target="_blank" href="https://ir.amprius.com/"><span class="x-particle is-primary" data-x-particle="scale-y inside-b_c" aria-hidden="true"><span style=""></span></span><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Investor Relations</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-s="&#xf107;"></i></div></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1897" id="menu-item-1897"><a class="x-anchor x-anchor-menu-item has-particle m5lc-7 m5lc-8 m5lc-9 m5lc-a m5lc-b m5lc-c m5lc-d m5lc-e m5lc-f" tabindex="0" href="https://amprius.com/careers/"><span class="x-particle is-primary" data-x-particle="scale-y inside-b_c" aria-hidden="true"><span style=""></span></span><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Careers</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-s="&#xf107;"></i></div></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1898" id="menu-item-1898"><a class="x-anchor x-anchor-menu-item has-particle m5lc-7 m5lc-8 m5lc-9 m5lc-a m5lc-b m5lc-c m5lc-d m5lc-e m5lc-f" tabindex="0" href="https://amprius.com/contact/"><span class="x-particle is-primary" data-x-particle="scale-y inside-b_c" aria-hidden="true"><span style=""></span></span><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Contact</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-s="&#xf107;"></i></div></a></li></ul><div class="x-anchor x-anchor-toggle has-graphic x-hide-lg x-hide-xl e7248-e5 m5lc-7 m5lc-8 m5lc-a m5lc-j" tabindex="0" data-x-toggle="1" data-x-toggleable="e7248-e5" data-x-toggle-overlay="1" aria-controls="e7248-e5-off-canvas" aria-expanded="false" aria-haspopup="true" aria-label="Toggle Off Canvas Content"><div class="x-anchor-content"><span class="x-graphic" aria-hidden="true">
-<span class="x-toggle x-toggle-burger x-graphic-child x-graphic-toggle" aria-hidden="true">
+<!--Begin Main Body-->
+<div class="wrapper">
 
-  
-    <span class="x-toggle-burger-bun-t" data-x-toggle-anim="x-bun-t-1"></span>
-    <span class="x-toggle-burger-patty" data-x-toggle-anim="x-patty-1"></span>
-    <span class="x-toggle-burger-bun-b" data-x-toggle-anim="x-bun-b-1"></span>
+		<!-- Start Video Background -->
+		<div class="videowrapper page-banner">
+			<video autoplay loop muted playsinline [muted]="true" class="video header-video" id="BgVideo">
+				<source src="https://factorialenergy.com/wp-content/themes/factorial/assets/images/video/intro-video.mp4" type="video/mp4">
+				<source src="https://factorialenergy.com/wp-content/themes/factorial/assets/images/video/intro-video.webm" type="video/webm">
+				<img src="https://factorialenergy.com/wp-content/themes/factorial/assets/images/video/intro-video.jpeg" title="Your browser does not support the <video> tag">
+			</video>
+			<div class="home-hero__valign-center">
+				<div data-wow-delay="1s" class="wow fadeInUp vertically-center-me">
+					<div class="hero-text__container">
+						<h1 class="hero-text__title tc-hero-heading">Transformational Solid-State Battery Technology</h1>
+						<h2 class="hero-text__subtitle tc-hero-subheading">Empowering a sustainable future with the highest performance and safest batteries for electric vehicles, homes, and critical applications.</h2>
+					</div>
+				</div>
+			</div>
+			<div class="scroll-down">
+				<a data-scroll href="#mainContent" class="scroll-link"><span class="scroll-arrow icon-angle-down"></span></a>
+			</div>
+		</div>
+		<!-- End Video Background -->
 
-  
-</span></span></div></div></div></div></div>      </header>
+    <!--Begin Page Body-->
+    <main class="main no-pad" role="main" tabindex="-1" id="mainContent">
 
-  <div class="x-main full" role="main">
-    <article id="post-1866" class="post-1866 page type-page status-publish has-post-thumbnail hentry">
-      <div class="entry-content">
+		<!-- Begin Page Components -->
+		
+      <!-- Begin Content Split Section -->
 
-                  <div id="cs-content" class="cs-content"><div class="x-section e1866-e1 m1fu-0 m1fu-1 m1fu-2"><div class="x-bg" aria-hidden="true"><div class="x-bg-layer-lower-image" style=" background-image: url(https://amprius.com/wp-content/uploads/2023/03/About-HERO-Image.jpg); background-repeat: no-repeat; background-position: center; background-size: cover;"></div><div class="x-bg-layer-upper-color" style=" background-color: rgba(0, 0, 0, 0.19);"></div></div><div class="x-row x-container max width e1866-e2 m1fu-b m1fu-c m1fu-d m1fu-l m1fu-m m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><div class="x-row-inner"><div class="x-col x-hide-sm x-hide-xs e1866-e3 m1fu-x m1fu-y m1fu-z"></div><div class="x-col e1866-e4 m1fu-x m1fu-y m1fu-z m1fu-10 m1fu-11 m1fu-12 m1fu-13 m1fu-14"><div class="x-text x-text-headline e1866-e5 m1fu-1e m1fu-1f m1fu-1g m1fu-1h m1fu-1i m1fu-1j m1fu-1k m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><div class="x-text-content"><div class="x-text-content-text"><h1 class="x-text-content-text-primary">ABOUT AMPRIUS</h1><span class="x-text-content-text-subheadline">Making the highest known energy density lithium-ion batteries in the world</span></div></div></div><span class="x-image e1866-e6 m1fu-1u m1fu-1v m1fu-1w m1fu-1x"><picture loading="lazy">
-<source type="image/webp" srcset="https://amprius.com/wp-content/uploads/2023/03/AMPRIUS_Product_1200.png.webp"/>
-<img src="https://amprius.com/wp-content/uploads/2023/03/AMPRIUS_Product_1200.png" width="600" height="400" alt="Image" loading="lazy"/>
-</picture>
-</span></div></div></div></div><div class="x-section x-hide-lg x-hide-md x-hide-sm x-hide-xl x-hide-xs e1866-e7 m1fu-0 m1fu-1 m1fu-2"><div class="x-bg" aria-hidden="true"><div class="x-bg-layer-lower-image" style=" background-image: url(https://amprius.com/wp-content/uploads/2023/07/276A0946_1920.jpg); background-repeat: no-repeat; background-position: center; background-size: cover;"></div><div class="x-bg-layer-upper-color" style=" background-color: rgba(0, 0, 0, 0.19);"></div></div><div class="x-row x-container max width e1866-e8 m1fu-b m1fu-c m1fu-d m1fu-l m1fu-n"><div class="x-row-inner"><div class="x-col e1866-e9 m1fu-x m1fu-y m1fu-10 m1fu-11 m1fu-12 m1fu-14 m1fu-15 m1fu-16"><div class="x-text x-text-headline e1866-e10 m1fu-1e m1fu-1f m1fu-1g m1fu-1i m1fu-1j m1fu-1k m1fu-1l m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><div class="x-text-content"><div class="x-text-content-text"><h1 class="x-text-content-text-primary">ABOUT AMPRIUS</h1><span class="x-text-content-text-subheadline">Making the highest known energy density lithium-ion batteries in the world</span></div></div></div><span class="x-image e1866-e11 m1fu-1u m1fu-1v m1fu-1w m1fu-1x"><picture loading="lazy">
-<source type="image/webp" srcset="https://amprius.com/wp-content/uploads/2023/03/AMPRIUS_Product_1200.png.webp"/>
-<img src="https://amprius.com/wp-content/uploads/2023/03/AMPRIUS_Product_1200.png" width="600" height="400" alt="Image" loading="lazy"/>
-</picture>
-</span></div><div class="x-col x-hide-sm x-hide-xs e1866-e12 m1fu-x m1fu-y m1fu-z"></div></div></div></div><div class="x-section e1866-e13 m1fu-0 m1fu-3 m1fu-a"><div class="x-row x-container max width e1866-e14 m1fu-b m1fu-c m1fu-e m1fu-f m1fu-g m1fu-o m1fu-p m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><div class="x-row-inner"><div class="x-col e1866-e15 m1fu-x m1fu-10 m1fu-11 m1fu-17 m1fu-18 m1fu-19 m1fu-1a m1fu-1b"><div class="x-text x-text-headline has-graphic e1866-e16 m1fu-1e m1fu-1k m1fu-1m m1fu-1n m1fu-1o"><div class="x-text-content"><span class="x-graphic" aria-hidden="true"><span class="x-image x-graphic-child x-graphic-image x-graphic-primary"><img src="https://amprius.com/wp-content/uploads/2021/03/Group-4666-1.svg" width="80" height="80" alt="Image" loading="lazy"></span></span><div class="x-text-content-text"><h3 class="x-text-content-text-primary">Industry Leading Silicon Anode Technology</h3><span class="x-text-content-text-subheadline">Amprius Technologies’ batteries deliver up to 100% higher energy density than standard lithium-ion batteries. This means our cells provide more energy and power with much less weight and volume.</span></div></div></div></div><div class="x-col e1866-e17 m1fu-x m1fu-10 m1fu-11 m1fu-17 m1fu-18 m1fu-19 m1fu-1a m1fu-1b"><div class="x-text x-text-headline has-graphic e1866-e18 m1fu-1e m1fu-1k m1fu-1m m1fu-1n m1fu-1o"><div class="x-text-content"><span class="x-graphic" aria-hidden="true"><span class="x-image x-graphic-child x-graphic-image x-graphic-primary"><img src="https://amprius.com/wp-content/uploads/2021/03/Group-4666-2.svg" width="80" height="80" alt="Image" loading="lazy"></span></span><div class="x-text-content-text"><h3 class="x-text-content-text-primary">Up to 80% Higher Energy Density than Conventional Batteries</h3><span class="x-text-content-text-subheadline">Amprius Technologies continually explores new ways to improve battery technology and manufacturing processes. Amprius’ batteries have established breakthrough performance with new cells up to 450 Wh/kg over hundreds of cycles.</span></div></div></div></div><div class="x-col e1866-e19 m1fu-x m1fu-10 m1fu-11 m1fu-17 m1fu-18 m1fu-19 m1fu-1a m1fu-1b"><div class="x-text x-text-headline has-graphic e1866-e20 m1fu-1e m1fu-1k m1fu-1m m1fu-1n m1fu-1o"><div class="x-text-content"><span class="x-graphic" aria-hidden="true"><span class="x-image x-graphic-child x-graphic-image x-graphic-primary"><img src="https://amprius.com/wp-content/uploads/2021/03/Group-4666-3.svg" width="80" height="80" alt="Image" loading="lazy"></span></span><div class="x-text-content-text"><h3 class="x-text-content-text-primary">Headquarters in Fremont, CA</h3><span class="x-text-content-text-subheadline">Founded in 2008, Amprius Technologies is a pioneer and the established leader in the production of silicon anodes for high energy density lithium-ion batteries.</span></div></div></div></div><div class="x-col e1866-e21 m1fu-x m1fu-10 m1fu-11 m1fu-17 m1fu-18 m1fu-19 m1fu-1a"><div class="x-text x-text-headline has-graphic e1866-e22 m1fu-1e m1fu-1k m1fu-1m m1fu-1n m1fu-1o"><div class="x-text-content"><span class="x-graphic" aria-hidden="true"><span class="x-image x-graphic-child x-graphic-image x-graphic-primary"><img src="https://amprius.com/wp-content/uploads/2021/03/Group-4666-4.svg" width="80" height="80" alt="Image" loading="lazy"></span></span><div class="x-text-content-text"><h3 class="x-text-content-text-primary">Strong IP Position with 80+ Patents</h3><span class="x-text-content-text-subheadline">Core technology, manufacturing process, and cell design.</span></div></div></div></div></div></div></div><div class="x-section e1866-e23 m1fu-0 m1fu-4 m1fu-5 m1fu-6"><div class="x-row x-container max width e1866-e24 m1fu-b m1fu-c m1fu-f m1fu-h m1fu-o m1fu-q"><div class="x-row-inner"><div class="x-col e1866-e25 m1fu-x m1fu-y m1fu-z m1fu-10 m1fu-11 m1fu-17 m1fu-18"><div class="x-text x-text-headline e1866-e26 m1fu-1e m1fu-1p m1fu-1q m1fu-1r m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><div class="x-text-content"><div class="x-text-content-text"><h3 class="x-text-content-text-primary">Our mission and the path forward</h3></div></div></div><div class="x-text x-content e1866-e27 m1fu-20 m1fu-21 m1fu-22">Amprius Technologies' mission is to make the highest energy density lithium-ion batteries in the world. Our products enable new applications and accelerate markets that couldn’t exist without the storage capabilities that we provide. </div></div></div></div></div><div class="x-section e1866-e28 m1fu-0 m1fu-4 m1fu-5 m1fu-6"><div class="x-row x-container max width e1866-e29 m1fu-b m1fu-c m1fu-f m1fu-h m1fu-o m1fu-r"><div class="x-row-inner"><div class="x-col e1866-e30 m1fu-x m1fu-y m1fu-z m1fu-10 m1fu-11 m1fu-17 m1fu-18"><div class="x-text x-text-headline e1866-e31 m1fu-1e m1fu-1o m1fu-1p m1fu-1q m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><div class="x-text-content"><div class="x-text-content-text"><h3 class="x-text-content-text-primary">Amprius Batteries Validated by Industry Leaders</h3></div></div></div></div></div></div><div class="x-row x-container max width e1866-e32 m1fu-b m1fu-d m1fu-i m1fu-l m1fu-s"><div class="x-row-inner"><div class="x-col x-hide-lg x-hide-md x-hide-sm x-hide-xs e1866-e33 m1fu-x m1fu-y m1fu-z"></div><div class="x-col e1866-e34 m1fu-x m1fu-y m1fu-z m1fu-10 m1fu-15 m1fu-17 m1fu-1c m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><span class="x-image e1866-e35 m1fu-1u m1fu-1w m1fu-1y"><picture loading="lazy">
-<source type="image/webp" srcset="https://amprius.com/wp-content/uploads/2023/03/1-Airbus-Logo.jpg.webp"/>
-<img src="https://amprius.com/wp-content/uploads/2023/03/1-Airbus-Logo.jpg" width="200" height="150" alt="Image" loading="lazy"/>
-</picture>
-</span><span class="x-image e1866-e36 m1fu-1u m1fu-1w m1fu-1y"><picture loading="lazy">
-<source type="image/webp" srcset="https://amprius.com/wp-content/uploads/2023/03/2-teledyne.jpg.webp"/>
-<img src="https://amprius.com/wp-content/uploads/2023/03/2-teledyne.jpg" width="200" height="150" alt="Image" loading="lazy"/>
-</picture>
-</span><span class="x-image e1866-e37 m1fu-1u m1fu-1w m1fu-1y"><picture loading="lazy">
-<source type="image/webp" srcset="https://amprius.com/wp-content/uploads/2023/03/3-AV_Logo_Black.jpg.webp"/>
-<img src="https://amprius.com/wp-content/uploads/2023/03/3-AV_Logo_Black.jpg" width="200" height="150" alt="Image" loading="lazy"/>
-</picture>
-</span><span class="x-image e1866-e38 m1fu-1u m1fu-1w m1fu-1y"><picture loading="lazy">
-<source type="image/webp" srcset="https://amprius.com/wp-content/uploads/2023/03/4-bae-systems.jpg.webp"/>
-<img src="https://amprius.com/wp-content/uploads/2023/03/4-bae-systems.jpg" width="200" height="150" alt="Image" loading="lazy"/>
-</picture>
-</span><span class="x-image e1866-e39 m1fu-1u m1fu-1w m1fu-1y"><picture loading="lazy">
-<source type="image/webp" srcset="https://amprius.com/wp-content/uploads/2023/03/5-Seal.jpg.webp"/>
-<img src="https://amprius.com/wp-content/uploads/2023/03/5-Seal.jpg" width="200" height="150" alt="Image" loading="lazy"/>
-</picture>
-</span><span class="x-image e1866-e40 m1fu-1u m1fu-1w m1fu-1y"><img src="https://amprius.com/wp-content/uploads/2023/03/6-us-army.jpg" width="200" height="150" alt="Image" loading="lazy"></span><span class="x-image e1866-e41 m1fu-1u m1fu-1w m1fu-1y"><img src="https://amprius.com/wp-content/uploads/2023/03/7-USABC.jpg" width="200" height="150" alt="Image" loading="lazy"></span></div><div class="x-col x-hide-lg x-hide-md x-hide-sm x-hide-xs e1866-e42 m1fu-x m1fu-y m1fu-z"></div></div></div></div><div class="x-section e1866-e43 m1fu-0 m1fu-4 m1fu-6 m1fu-7" id="team"><div class="x-row x-container max width e1866-e44 m1fu-b m1fu-c m1fu-f m1fu-h m1fu-o m1fu-t m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><div class="x-row-inner"><div class="x-col e1866-e45 m1fu-x m1fu-y m1fu-z m1fu-10 m1fu-11 m1fu-17 m1fu-18"><div class="x-text x-text-headline e1866-e46 m1fu-1e m1fu-1o m1fu-1p m1fu-1q m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><div class="x-text-content"><div class="x-text-content-text"><h3 class="x-text-content-text-primary">The leadership team</h3></div></div></div><div class="x-text x-content e1866-e47 m1fu-20 m1fu-21 m1fu-23"><span>Our senior management team has earned the trust of leading public and private organizations and includes experts in technology, business management, finance, sales and marketing.</span></div></div></div></div><div class="x-row x-container max width e1866-e48 m1fu-b m1fu-e m1fu-i m1fu-j m1fu-u m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><div class="x-row-inner"><div class="x-col e1866-e49 m1fu-x m1fu-10 m1fu-12 m1fu-15 m1fu-19 m1fu-1c m1fu-1d"><div class="x-div e1866-e50 m1fu-25"><div class="x-row e1866-e51 m1fu-b m1fu-c m1fu-d m1fu-k m1fu-l m1fu-v"><div class="x-row-inner"><div class="x-col e1866-e52 m1fu-x m1fu-y m1fu-z m1fu-10 m1fu-11 m1fu-12 m1fu-18"><span class="x-image e1866-e53 m1fu-1u m1fu-1x m1fu-1z m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><picture loading="lazy">
-<source type="image/webp" srcset="https://amprius.com/wp-content/uploads/2022/08/Kang-1200.jpg.webp"/>
-<img src="https://amprius.com/wp-content/uploads/2022/08/Kang-1200.jpg" width="600" height="600" alt="Image" loading="lazy"/>
-</picture>
-</span></div><div class="x-col e1866-e54 m1fu-x m1fu-y m1fu-z"><div class="x-text x-text-headline e1866-e55 m1fu-1e m1fu-1f m1fu-1j m1fu-1k m1fu-1n m1fu-1s"><div class="x-text-content"><div class="x-text-content-text"><h4 class="x-text-content-text-primary">Dr. Kang Sun</h4><span class="x-text-content-text-subheadline"><p>Chief Executive Officer</p>
-</span></div></div></div><a class="x-anchor x-anchor-button has-graphic e1866-e56 m1fu-26" tabindex="0" href="https://www.linkedin.com/in/kang-sun-01775310/" rel="nofollow" target="_blank"><div class="x-anchor-content"><span class="x-graphic" aria-hidden="true"><i class="x-icon x-graphic-child x-graphic-icon x-graphic-primary" aria-hidden="true" data-x-icon-b="&#xf08c;"></i></span></div></a><div class="x-text x-content e1866-e57 m1fu-21 m1fu-23 m1fu-24"><p>Dr. Sun is a globally recognized business executive and industry visionary. Prior to Amprius, Dr. Sun led two business ventures in the renewable energy space – JA Solar Co. Ltd. (launched IPO on NASDAQ) and RayTracker Inc. (acquired by First Solar Inc). He also served as vice president and general manager at Honeywell International Inc. and vice president and CTO at Oce, N.V.</p>
-</div></div></div></div></div></div><div class="x-col e1866-e49 m1fu-x m1fu-10 m1fu-12 m1fu-15 m1fu-19 m1fu-1c m1fu-1d"><div class="x-div e1866-e50 m1fu-25"><div class="x-row e1866-e51 m1fu-b m1fu-c m1fu-d m1fu-k m1fu-l m1fu-v"><div class="x-row-inner"><div class="x-col e1866-e52 m1fu-x m1fu-y m1fu-z m1fu-10 m1fu-11 m1fu-12 m1fu-18"><span class="x-image e1866-e53 m1fu-1u m1fu-1x m1fu-1z m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><picture loading="lazy">
-<source type="image/webp" srcset="https://amprius.com/wp-content/uploads/2022/11/John-1_bw.jpg.webp"/>
-<img src="https://amprius.com/wp-content/uploads/2022/11/John-1_bw.jpg" width="600" height="600" alt="Image" loading="lazy"/>
-</picture>
-</span></div><div class="x-col e1866-e54 m1fu-x m1fu-y m1fu-z"><div class="x-text x-text-headline e1866-e55 m1fu-1e m1fu-1f m1fu-1j m1fu-1k m1fu-1n m1fu-1s"><div class="x-text-content"><div class="x-text-content-text"><h4 class="x-text-content-text-primary">Mr. Jon Bornstein</h4><span class="x-text-content-text-subheadline"><p>Chief Operating Officer</p>
-</span></div></div></div><a class="x-anchor x-anchor-button has-graphic e1866-e56 m1fu-26" tabindex="0" href="https://www.linkedin.com/in/jon-bornstein-0ab20b2/" rel="nofollow" target="_blank"><div class="x-anchor-content"><span class="x-graphic" aria-hidden="true"><i class="x-icon x-graphic-child x-graphic-icon x-graphic-primary" aria-hidden="true" data-x-icon-b="&#xf08c;"></i></span></div></a><div class="x-text x-content e1866-e57 m1fu-21 m1fu-23 m1fu-24"><p>Jon is a results-driven leader of R&#038;D, product development, and manufacturing with a record of success in organizations ranging from pre-product start-ups to public companies. He is a Silicon Valley veteran who has spent the better part of his career in the semiconductor industry and brings a wealth of experience in technology development and high volume manufacturing.</p>
-</div></div></div></div></div></div><div class="x-col e1866-e49 m1fu-x m1fu-10 m1fu-12 m1fu-15 m1fu-19 m1fu-1c m1fu-1d"><div class="x-div e1866-e50 m1fu-25"><div class="x-row e1866-e51 m1fu-b m1fu-c m1fu-d m1fu-k m1fu-l m1fu-v"><div class="x-row-inner"><div class="x-col e1866-e52 m1fu-x m1fu-y m1fu-z m1fu-10 m1fu-11 m1fu-12 m1fu-18"><span class="x-image e1866-e53 m1fu-1u m1fu-1x m1fu-1z m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><picture loading="lazy">
-<source type="image/webp" srcset="https://amprius.com/wp-content/uploads/2022/08/Ionel-2.jpg.webp"/>
-<img src="https://amprius.com/wp-content/uploads/2022/08/Ionel-2.jpg" width="600" height="600" alt="Image" loading="lazy"/>
-</picture>
-</span></div><div class="x-col e1866-e54 m1fu-x m1fu-y m1fu-z"><div class="x-text x-text-headline e1866-e55 m1fu-1e m1fu-1f m1fu-1j m1fu-1k m1fu-1n m1fu-1s"><div class="x-text-content"><div class="x-text-content-text"><h4 class="x-text-content-text-primary">Dr. Ionel Stefan</h4><span class="x-text-content-text-subheadline"><p>Chief Technology Officer</p>
-</span></div></div></div><a class="x-anchor x-anchor-button has-graphic e1866-e56 m1fu-26" tabindex="0" href="https://www.linkedin.com/in/constantin-ionel-stefan-53727a4/" rel="nofollow" target="_blank"><div class="x-anchor-content"><span class="x-graphic" aria-hidden="true"><i class="x-icon x-graphic-child x-graphic-icon x-graphic-primary" aria-hidden="true" data-x-icon-b="&#xf08c;"></i></span></div></a><div class="x-text x-content e1866-e57 m1fu-21 m1fu-23 m1fu-24"><p>Dr. Stefan is a recognized expert in electrochemistry and energy storage and leads the company’s scientific research and development activities for advancing lithium ion cell performance.</p>
-</div></div></div></div></div></div><div class="x-col e1866-e49 m1fu-x m1fu-10 m1fu-12 m1fu-15 m1fu-19 m1fu-1c m1fu-1d"><div class="x-div e1866-e50 m1fu-25"><div class="x-row e1866-e51 m1fu-b m1fu-c m1fu-d m1fu-k m1fu-l m1fu-v"><div class="x-row-inner"><div class="x-col e1866-e52 m1fu-x m1fu-y m1fu-z m1fu-10 m1fu-11 m1fu-12 m1fu-18"><span class="x-image e1866-e53 m1fu-1u m1fu-1x m1fu-1z m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><picture loading="lazy">
-<source type="image/webp" srcset="https://amprius.com/wp-content/uploads/2022/08/Sandra-1200.jpg.webp"/>
-<img src="https://amprius.com/wp-content/uploads/2022/08/Sandra-1200.jpg" width="600" height="600" alt="Image" loading="lazy"/>
-</picture>
-</span></div><div class="x-col e1866-e54 m1fu-x m1fu-y m1fu-z"><div class="x-text x-text-headline e1866-e55 m1fu-1e m1fu-1f m1fu-1j m1fu-1k m1fu-1n m1fu-1s"><div class="x-text-content"><div class="x-text-content-text"><h4 class="x-text-content-text-primary">Ms. Sandra Wallach</h4><span class="x-text-content-text-subheadline"><p>Chief Financial Officer</p>
-</span></div></div></div><a class="x-anchor x-anchor-button has-graphic e1866-e56 m1fu-26" tabindex="0" href="https://www.linkedin.com/in/sandra-wallach-a865105/" rel="nofollow" target="_blank"><div class="x-anchor-content"><span class="x-graphic" aria-hidden="true"><i class="x-icon x-graphic-child x-graphic-icon x-graphic-primary" aria-hidden="true" data-x-icon-b="&#xf08c;"></i></span></div></a><div class="x-text x-content e1866-e57 m1fu-21 m1fu-23 m1fu-24"><p>Sandra brings to Amprius Technologies over 20 years of multifaceted financial experience leading global public and private enterprises.  Most recently she was CFO of Identiv, Inc. [NASDAQ INVE], building on leadership positions at MiaSole, Juniper Networks, Intuit and General Electric.</p>
-</div></div></div></div></div></div><div class="x-col e1866-e49 m1fu-x m1fu-10 m1fu-12 m1fu-15 m1fu-19 m1fu-1c m1fu-1d"><div class="x-div e1866-e50 m1fu-25"><div class="x-row e1866-e51 m1fu-b m1fu-c m1fu-d m1fu-k m1fu-l m1fu-v"><div class="x-row-inner"><div class="x-col e1866-e52 m1fu-x m1fu-y m1fu-z m1fu-10 m1fu-11 m1fu-12 m1fu-18"><span class="x-image e1866-e53 m1fu-1u m1fu-1x m1fu-1z m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><picture loading="lazy">
-<source type="image/webp" srcset="https://amprius.com/wp-content/uploads/2022/08/Weigie-1200.jpg.webp"/>
-<img src="https://amprius.com/wp-content/uploads/2022/08/Weigie-1200.jpg" width="600" height="600" alt="Image" loading="lazy"/>
-</picture>
-</span></div><div class="x-col e1866-e54 m1fu-x m1fu-y m1fu-z"><div class="x-text x-text-headline e1866-e55 m1fu-1e m1fu-1f m1fu-1j m1fu-1k m1fu-1n m1fu-1s"><div class="x-text-content"><div class="x-text-content-text"><h4 class="x-text-content-text-primary">Dr. Weijie Wang</h4><span class="x-text-content-text-subheadline"><p>Amprius Technologies Fellow</p>
-</span></div></div></div><a class="x-anchor x-anchor-button has-graphic e1866-e56 m1fu-26" tabindex="0" href="https://www.linkedin.com/in/weijie-wang-3321552a/" rel="nofollow" target="_blank"><div class="x-anchor-content"><span class="x-graphic" aria-hidden="true"><i class="x-icon x-graphic-child x-graphic-icon x-graphic-primary" aria-hidden="true" data-x-icon-b="&#xf08c;"></i></span></div></a><div class="x-text x-content e1866-e57 m1fu-21 m1fu-23 m1fu-24"><p>Dr. Wang pioneered the design and fabrication of the silicon nanowire anode.  He is responsible for nanowire development and manufacturing.</p>
-</div></div></div></div></div></div><div class="x-col e1866-e49 m1fu-x m1fu-10 m1fu-12 m1fu-15 m1fu-19 m1fu-1c m1fu-1d"><div class="x-div e1866-e50 m1fu-25"><div class="x-row e1866-e51 m1fu-b m1fu-c m1fu-d m1fu-k m1fu-l m1fu-v"><div class="x-row-inner"><div class="x-col e1866-e52 m1fu-x m1fu-y m1fu-z m1fu-10 m1fu-11 m1fu-12 m1fu-18"><span class="x-image e1866-e53 m1fu-1u m1fu-1x m1fu-1z m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><picture loading="lazy">
-<source type="image/webp" srcset="https://amprius.com/wp-content/uploads/2022/08/Aaron-1200.jpg.webp"/>
-<img src="https://amprius.com/wp-content/uploads/2022/08/Aaron-1200.jpg" width="600" height="600" alt="Image" loading="lazy"/>
-</picture>
-</span></div><div class="x-col e1866-e54 m1fu-x m1fu-y m1fu-z"><div class="x-text x-text-headline e1866-e55 m1fu-1e m1fu-1f m1fu-1j m1fu-1k m1fu-1n m1fu-1s"><div class="x-text-content"><div class="x-text-content-text"><h4 class="x-text-content-text-primary">Mr. Aaron Bakke</h4><span class="x-text-content-text-subheadline"><p>Vice President of Quality and Operations</p>
-</span></div></div></div><a class="x-anchor x-anchor-button has-graphic e1866-e56 m1fu-26" tabindex="0" href="https://www.linkedin.com/in/aaron-bakke-b5a8177/" rel="nofollow" target="_blank"><div class="x-anchor-content"><span class="x-graphic" aria-hidden="true"><i class="x-icon x-graphic-child x-graphic-icon x-graphic-primary" aria-hidden="true" data-x-icon-b="&#xf08c;"></i></span></div></a><div class="x-text x-content e1866-e57 m1fu-21 m1fu-23 m1fu-24"><p>Aaron has deep expertise in quality and manufacturing, with broad experience in the automotive and aerospace industries. He has a record of success in lean manufacturing, ERP implementation, quality assurance, and supply chain management. His dedication to excellence has resulted in globally recognized accomplishments in quality assurance.</p>
-</div></div></div></div></div></div><div class="x-col e1866-e49 m1fu-x m1fu-10 m1fu-12 m1fu-15 m1fu-19 m1fu-1c m1fu-1d"><div class="x-div e1866-e50 m1fu-25"><div class="x-row e1866-e51 m1fu-b m1fu-c m1fu-d m1fu-k m1fu-l m1fu-v"><div class="x-row-inner"><div class="x-col e1866-e52 m1fu-x m1fu-y m1fu-z m1fu-10 m1fu-11 m1fu-12 m1fu-18"><span class="x-image e1866-e53 m1fu-1u m1fu-1x m1fu-1z m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><picture loading="lazy">
-<source type="image/webp" srcset="https://amprius.com/wp-content/uploads/2022/08/Ronnie-1200.jpg.webp"/>
-<img src="https://amprius.com/wp-content/uploads/2022/08/Ronnie-1200.jpg" width="600" height="600" alt="Image" loading="lazy"/>
-</picture>
-</span></div><div class="x-col e1866-e54 m1fu-x m1fu-y m1fu-z"><div class="x-text x-text-headline e1866-e55 m1fu-1e m1fu-1f m1fu-1j m1fu-1k m1fu-1n m1fu-1s"><div class="x-text-content"><div class="x-text-content-text"><h4 class="x-text-content-text-primary">Mr. Ronnie Tao</h4><span class="x-text-content-text-subheadline"><p>Vice President of Business Development</p>
-</span></div></div></div><a class="x-anchor x-anchor-button has-graphic e1866-e56 m1fu-26" tabindex="0" href="https://www.linkedin.com/in/ronnietao/" rel="nofollow" target="_blank"><div class="x-anchor-content"><span class="x-graphic" aria-hidden="true"><i class="x-icon x-graphic-child x-graphic-icon x-graphic-primary" aria-hidden="true" data-x-icon-b="&#xf08c;"></i></span></div></a><div class="x-text x-content e1866-e57 m1fu-21 m1fu-23 m1fu-24"><p>Ronnie is an industry veteran with buyer and supply-side experience along with key strategic development and sale roles.  He successfully led market penetration efforts that span Fortune 500 to mid-size and small companies.  Ronnie has a wealth of experience in many market verticals including mobility, robotics, and consumer electronics.</p>
-</div></div></div></div></div></div><div class="x-col e1866-e49 m1fu-x m1fu-10 m1fu-12 m1fu-15 m1fu-19 m1fu-1c m1fu-1d"><div class="x-div e1866-e50 m1fu-25"><div class="x-row e1866-e51 m1fu-b m1fu-c m1fu-d m1fu-k m1fu-l m1fu-v"><div class="x-row-inner"><div class="x-col e1866-e52 m1fu-x m1fu-y m1fu-z m1fu-10 m1fu-11 m1fu-12 m1fu-18"><span class="x-image e1866-e53 m1fu-1u m1fu-1x m1fu-1z m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><picture loading="lazy">
-<source type="image/webp" srcset="https://amprius.com/wp-content/uploads/2022/11/Andrew-Huie_BW.jpg.webp"/>
-<img src="https://amprius.com/wp-content/uploads/2022/11/Andrew-Huie_BW.jpg" width="600" height="600" alt="Image" loading="lazy"/>
-</picture>
-</span></div><div class="x-col e1866-e54 m1fu-x m1fu-y m1fu-z"><div class="x-text x-text-headline e1866-e55 m1fu-1e m1fu-1f m1fu-1j m1fu-1k m1fu-1n m1fu-1s"><div class="x-text-content"><div class="x-text-content-text"><h4 class="x-text-content-text-primary">Mr. Andrew Huie</h4><span class="x-text-content-text-subheadline"><p>Vice President of Infrastructure</p>
-</span></div></div></div><a class="x-anchor x-anchor-button has-graphic e1866-e56 m1fu-26" tabindex="0" href="https://www.linkedin.com/in/andrewhuie/" rel="nofollow" target="_blank"><div class="x-anchor-content"><span class="x-graphic" aria-hidden="true"><i class="x-icon x-graphic-child x-graphic-icon x-graphic-primary" aria-hidden="true" data-x-icon-b="&#xf08c;"></i></span></div></a><div class="x-text x-content e1866-e57 m1fu-21 m1fu-23 m1fu-24"><p>Andrew brings over 30 years of facility development and management experience to Amprius. Most recently, he served as the Director of Facilities for Panasonic Energy of North America at Tesla’s first Gigafactory in Sparks, NV. Andrew is a Certified Facility Manager and has held different senior management positions for expansions of critical infrastructures at The Jackson Laboratory, Xyratex International, Jacobs Engineering Group, Optisolar, and NEC Electronics America.</p>
-</div></div></div></div></div></div><div class="x-col e1866-e49 m1fu-x m1fu-10 m1fu-12 m1fu-15 m1fu-19 m1fu-1c m1fu-1d"><div class="x-div e1866-e50 m1fu-25"><div class="x-row e1866-e51 m1fu-b m1fu-c m1fu-d m1fu-k m1fu-l m1fu-v"><div class="x-row-inner"><div class="x-col e1866-e52 m1fu-x m1fu-y m1fu-z m1fu-10 m1fu-11 m1fu-12 m1fu-18"><span class="x-image e1866-e53 m1fu-1u m1fu-1x m1fu-1z m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><picture loading="lazy">
-<source type="image/webp" srcset="https://amprius.com/wp-content/uploads/2023/02/Siyu-Headshot-Color-WebNew2.jpg.webp"/>
-<img src="https://amprius.com/wp-content/uploads/2023/02/Siyu-Headshot-Color-WebNew2.jpg" width="400" height="400" alt="Image" loading="lazy"/>
-</picture>
-</span></div><div class="x-col e1866-e54 m1fu-x m1fu-y m1fu-z"><div class="x-text x-text-headline e1866-e55 m1fu-1e m1fu-1f m1fu-1j m1fu-1k m1fu-1n m1fu-1s"><div class="x-text-content"><div class="x-text-content-text"><h4 class="x-text-content-text-primary">Ms. Siyu Jiang</h4><span class="x-text-content-text-subheadline"><p>Vice President of Legal Affairs</p>
-</span></div></div></div><a class="x-anchor x-anchor-button has-graphic e1866-e56 m1fu-26" tabindex="0" href="https://www.linkedin.com/in/siyu-j-02b4a8207/" rel="nofollow" target="_blank"><div class="x-anchor-content"><span class="x-graphic" aria-hidden="true"><i class="x-icon x-graphic-child x-graphic-icon x-graphic-primary" aria-hidden="true" data-x-icon-b="&#xf08c;"></i></span></div></a><div class="x-text x-content e1866-e57 m1fu-21 m1fu-23 m1fu-24"><p>Ms. Jiang brings more than a decade of experience in the legal industry. For seven years, she was an associate at Wilson Sonsini Goodrich and Rosati, counseling both public and private companies on corporate and transactional legal proceedings. Prior to that, she was an associate at Davis Polk and Wardell, serving as counsel for various public offerings and capital markets deals.</p>
-</div></div></div></div></div></div></div></div></div><div class="x-section e1866-e58 m1fu-0 m1fu-2 m1fu-4 m1fu-8"><div class="x-row x-container max width e1866-e59 m1fu-b m1fu-c m1fu-d m1fu-l m1fu-w m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><div class="x-row-inner"><div class="x-col x-hide-sm x-hide-xs e1866-e60 m1fu-x m1fu-y m1fu-z"></div><div class="x-col e1866-e61 m1fu-x m1fu-y m1fu-z"><div class="x-text x-text-headline e1866-e62 m1fu-1e m1fu-1g m1fu-1j m1fu-1k m1fu-1q m1fu-1t m1fu-9 x-effect-exit" data-x-effect="{&quot;scroll&quot;:true,&quot;offsetTop&quot;:&quot;10%&quot;,&quot;offsetBottom&quot;:&quot;10%&quot;,&quot;behaviorScroll&quot;:&quot;fire-once&quot;}"><div class="x-text-content"><div class="x-text-content-text"><h1 class="x-text-content-text-primary">ABOUT AMPRIUS</h1><span class="x-text-content-text-subheadline">Silicon Anode Platform Revolutionizes Lithium-ion Batteries</span></div></div></div><div class="x-frame x-frame-video-embed e1866-e63 m1fu-27 m1fu-28"><div class="x-frame-inner"><div class="x-video x-video-embed"><iframe src="https://player.vimeo.com/video/734441067?h=dca4c2a22f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Amprius Technologies Promotional Video"></iframe></div></div></div></div><div class="x-col x-hide-sm x-hide-xs e1866-e64 m1fu-x m1fu-y m1fu-z"></div></div></div></div></div><div class="swp-hidden-panel-wrap" style="display: none; visibility: collapse; opacity: 0"><div class="swp_social_panel swp_horizontal_panel swp_modern  swp_default_full_color swp_other_full_color swp_individual_full_color scale-100 scale-full_width" data-min-width="1100" data-float-color="#ffffff" data-float="none" data-float-mobile="none" data-transition="slide" data-post-id="1866" ><div class="nc_tweetContainer swp_share_button swp_twitter" data-network="twitter"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://twitter.com/intent/tweet?text=About+Amprius&url=https%3A%2F%2Famprius.com%2Fabout%2F" data-link="https://twitter.com/intent/tweet?text=About+Amprius&url=https%3A%2F%2Famprius.com%2Fabout%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Tweet</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_facebook" data-network="facebook"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/share.php?u=https%3A%2F%2Famprius.com%2Fabout%2F" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Famprius.com%2Fabout%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_linkedin" data-network="linkedin"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.linkedin.com/cws/share?url=https%3A%2F%2Famprius.com%2Fabout%2F" data-link="https://www.linkedin.com/cws/share?url=https%3A%2F%2Famprius.com%2Fabout%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_linkedin_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_reddit" data-network="reddit"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.reddit.com/submit?url=https%3A%2F%2Famprius.com%2Fabout%2F" data-link="https://www.reddit.com/submit?url=https%3A%2F%2Famprius.com%2Fabout%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_reddit_icon"></i><span class="swp_share">Reddit</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_telegram" data-network="telegram"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://telegram.me/share/url?url=https%3A%2F%2Famprius.com%2Fabout%2F&text=About+Amprius" data-link="https://telegram.me/share/url?url=https%3A%2F%2Famprius.com%2Fabout%2F&text=About+Amprius"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_telegram_icon"></i><span class="swp_share">Telegram</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_pocket" data-network="pocket"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://getpocket.com/save?url=https%3A%2F%2Famprius.com%2Fabout%2F" data-link="https://getpocket.com/save?url=https%3A%2F%2Famprius.com%2Fabout%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_pocket_icon"></i><span class="swp_share">Pocket</span></span></span></span></a></div></div></div><div class="swp-content-locator"></div>                  
+<section id="content__split" class="content-split__section content-right">
+
+  <div class="row row-site">
+
+    <div class="xlarge-11 xxlarge-11 xlarge-centered columns">
+
+      <div class="row flex-x">
+
+        <div class="columns section-relative wow xsmall-12 large-6 order-1 fadeInLeft">
+          <img class="image-with-dots-01 shadow" src="https://factorialenergy.com/wp-content/uploads/promise-perils.jpg" alt="" />
+          <div class="bg-dots-01" style="background: url(https://factorialenergy.com/wp-content/themes/factorial/assets/images/dot-pattern.png)"></div>
+        </div>
+
+        <div class="columns article wow xsmall-12 large-5 order-2 large-offset-1 fadeInRight">
+          <div>
+                                      <h2 class="mt0">Promises and Perils</h2>
+                                      <p>For ages, the promise of an effective, safe solid-state battery has been the ultimate unattainable goal — ideal, enticing, but always out of reach.</p>
+<p>Consider this quote:</p>
+<p><i>“The storage battery is, in my opinion, a catchpenny, a sensation, a mechanism for swindling the public by stock companies.” </i></p>
+<p>The speaker: Thomas Edison. The year: 1883.</p>
+<p>138 years later, that sentiment has held true.</p>
+                      </div>
+        </div>
+
       </div>
-    </article>
+
+    </div>
+
   </div>
 
+</section>
 
-    
 
-  <footer class="x-colophon" role="contentinfo">
-
-    
-    <div class="x-bar x-bar-footer x-bar-h x-bar-relative x-bar-outer-spacers e7307-e1 m5mz-0 m5mz-1" data-x-bar="{&quot;id&quot;:&quot;e7307-e1&quot;,&quot;region&quot;:&quot;footer&quot;,&quot;height&quot;:&quot;auto&quot;}"><div class="e7307-e1 x-bar-content"><div class="x-bar-container e7307-e2 m5mz-3 m5mz-4 m5mz-5 m5mz-6"><div class="x-text x-text-headline e7307-e3 m5mz-a m5mz-b"><div class="x-text-content"><div class="x-text-content-text"><h5 class="x-text-content-text-primary">INTERESTED? LET’S TALK</h5><span class="x-text-content-text-subheadline">Contact us to learn more about Amprius Technologies' Silicon Anode Batteries.</span></div></div></div><div class="x-div e7307-e4 m5mz-d"><a class="x-anchor x-anchor-button has-graphic e7307-e5 m5mz-f m5mz-g" tabindex="0" href="/contact/"><div class="x-anchor-content"><span class="x-graphic" aria-hidden="true"><i class="x-icon x-graphic-child x-graphic-icon x-graphic-primary" aria-hidden="true" data-x-icon-s="&#xf054;"></i></span><div class="x-anchor-text"><span class="x-anchor-text-primary">Contact Us</span></div></div></a><a class="x-anchor x-anchor-button has-graphic e7307-e6 m5mz-f m5mz-h" tabindex="0" href="/facility/#faq"><div class="x-anchor-content"><span class="x-graphic" aria-hidden="true"><i class="x-icon x-graphic-child x-graphic-icon x-graphic-primary" aria-hidden="true" data-x-icon-s="&#xf054;"></i></span><div class="x-anchor-text"><span class="x-anchor-text-primary">Colorado FAQ</span></div></div></a></div></div><div class="x-bar-container e7307-e7 m5mz-4 m5mz-5 m5mz-7 m5mz-8"><div class="x-div e7307-e8 m5mz-d m5mz-e"><span class="x-image e7307-e9 m5mz-i"><img src="https://amprius.com/wp-content/uploads/2021/02/logo-rw@2x.png" width="85" height="40" alt="Image" loading="lazy"></span><div class="x-text x-text-headline has-graphic e7307-e10 m5mz-b m5mz-c"><div class="x-text-content"><span class="x-graphic" aria-hidden="true"><span class="x-image x-graphic-child x-graphic-image x-graphic-primary"><picture loading="lazy">
-<source type="image/webp" srcset="https://amprius.com/wp-content/uploads/2022/11/iso-9001-2015-certification_orig@2x.png.webp"/>
-<img src="https://amprius.com/wp-content/uploads/2022/11/iso-9001-2015-certification_orig@2x.png" width="50" height="50" alt="Image" loading="lazy"/>
-</picture>
-</span></span><div class="x-text-content-text"><h6 class="x-text-content-text-primary">ISO 9001-2015 <br />Certified</h6></div></div></div></div><div class="x-text x-content e7307-e11 m5mz-j m5mz-k m5mz-l"><p>1180 Page Ave, Fremont, CA 94538 USA <br />
-Phone: <a href="tel:800.425.8803">800.425.8803</a> <br />
-Email: <a href="mailto:inquire@amprius.com">inquire@amprius.com</a></p></div><div class="x-text x-content e7307-e12 m5mz-k m5mz-l m5mz-m"><p>© Copyright 2023 Amprius Technologies • All Rights Reserved<br />
-<a href="/privacy-policy/" target="_self">PRIVACY POLICY</a> • <a href="/cookie-policy">COOKIE POLICY</a></p></div></div></div></div><div class="x-bar x-bar-footer x-bar-h x-bar-relative e7307-e13 m5mz-0 m5mz-2" data-x-bar="{&quot;id&quot;:&quot;e7307-e13&quot;,&quot;region&quot;:&quot;footer&quot;,&quot;height&quot;:&quot;auto&quot;}"><div class="e7307-e13 x-bar-content x-container max width"><div class="x-bar-container e7307-e14 m5mz-5 m5mz-6 m5mz-7 m5mz-9"><div class="x-text x-content e7307-e15 m5mz-j m5mz-k m5mz-n">Amprius is not responsible for and expressly disclaims all liability for damages of any kind arising out of the use, reference to, or reliance on any information contained within this website. While Amprius makes reasonable efforts to always provide current and accurate information, Amprius does not make any warranty, expressed or implied, as to the completeness, timeliness or accuracy of the information contained within this website. The information may not be correct, complete or up to date. While the information is periodically updated, the information is only current as of the date posted, and Amprius undertakes no duty to maintain or update the information other than as required by applicable law.</div></div></div></div>
-    
-  </footer>
-
-<div id="e7248-e5-off-canvas" class="x-off-canvas x-off-canvas-right m5lc-n e7248-e5" role="dialog" tabindex="-1" data-x-toggleable="e7248-e5" aria-hidden="true" aria-label="Off Canvas" data-x-disable-body-scroll="1"><span class="x-off-canvas-bg"></span><button class="x-off-canvas-close x-off-canvas-close-right" data-x-toggle-close="1" aria-label="Close Off Canvas Content"><span><svg viewBox="0 0 16 16"><g><path d="M14.7,1.3c-0.4-0.4-1-0.4-1.4,0L8,6.6L2.7,1.3c-0.4-0.4-1-0.4-1.4,0s-0.4,1,0,1.4L6.6,8l-5.3,5.3 c-0.4,0.4-0.4,1,0,1.4C1.5,14.9,1.7,15,2,15s0.5-0.1,0.7-0.3L8,9.4l5.3,5.3c0.2,0.2,0.5,0.3,0.7,0.3s0.5-0.1,0.7-0.3 c0.4-0.4,0.4-1,0-1.4L9.4,8l5.3-5.3C15.1,2.3,15.1,1.7,14.7,1.3z"></path></g></svg></span></button><div class="x-off-canvas-content x-off-canvas-content-right" data-x-scrollbar="{&quot;suppressScrollX&quot;:true}" role="document" aria-label="Off Canvas Content"><ul class="x-menu x-menu-collapsed e7248-e6 m5lc-3 m5lc-5 m5lc-8 m5lc-a m5lc-c m5lc-d m5lc-e m5lc-i m5lc-k m5lc-l m5lc-7 m5lc-8 m5lc-9 m5lc-a m5lc-c m5lc-e m5lc-h m5lc-i m5lc-l m5lc-m"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1866 current_page_item menu-item-1896"><a class="x-anchor x-anchor-menu-item m5lc-8 m5lc-a m5lc-c m5lc-d m5lc-e m5lc-i m5lc-k m5lc-l x-always-active" tabindex="0" href="https://amprius.com/about/"><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">About</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-o="&#xf107;"></i></div></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1899"><a class="x-anchor x-anchor-menu-item m5lc-8 m5lc-a m5lc-c m5lc-d m5lc-e m5lc-i m5lc-k m5lc-l" tabindex="0" href="https://amprius.com/technology/"><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Technology</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-o="&#xf107;"></i></div></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7672"><a class="x-anchor x-anchor-menu-item m5lc-8 m5lc-a m5lc-c m5lc-d m5lc-e m5lc-i m5lc-k m5lc-l" tabindex="0" href="https://amprius.com/products/"><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Products</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-o="&#xf107;"></i></div></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7602"><a class="x-anchor x-anchor-menu-item m5lc-8 m5lc-a m5lc-c m5lc-d m5lc-e m5lc-i m5lc-k m5lc-l" tabindex="0" href="https://amprius.com/facility/"><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Colorado Facility</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-o="&#xf107;"></i></div></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6476"><a class="x-anchor x-anchor-menu-item m5lc-8 m5lc-a m5lc-c m5lc-d m5lc-e m5lc-i m5lc-k m5lc-l" tabindex="0" href="https://amprius.com/media-center/" id="x-menu-collapsed-anchor-e7248-e6-0" data-x-toggle="collapse" data-x-toggleable="e7248-e6-0" aria-controls="x-menu-collapsed-list-e7248-e6-0" aria-expanded="false" aria-haspopup="true" aria-label="Toggle Collapsed Sub Menu"><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Media</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-o="&#xf107;"></i></div></a><ul class="sub-menu x-collapsed" id="x-menu-collapsed-list-e7248-e6-0" aria-hidden="true" aria-labelledby="x-menu-collapsed-anchor-e7248-e6-0" data-x-toggleable="e7248-e6-0" data-x-toggle-collapse="1"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7328"><a class="x-anchor x-anchor-menu-item m5lc-7 m5lc-8 m5lc-9 m5lc-a m5lc-c m5lc-e m5lc-h m5lc-i m5lc-l m5lc-m" tabindex="0" href="https://amprius.com/recent-announcements/"><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Recent Announcements</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-o="&#xf107;"></i></div></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7329"><a class="x-anchor x-anchor-menu-item m5lc-7 m5lc-8 m5lc-9 m5lc-a m5lc-c m5lc-e m5lc-h m5lc-i m5lc-l m5lc-m" tabindex="0" href="https://amprius.com/media-coverage/"><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Media Coverage</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-o="&#xf107;"></i></div></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7327"><a class="x-anchor x-anchor-menu-item m5lc-7 m5lc-8 m5lc-9 m5lc-a m5lc-c m5lc-e m5lc-h m5lc-i m5lc-l m5lc-m" tabindex="0" href="https://amprius.com/blog/"><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Blog</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-o="&#xf107;"></i></div></a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7126"><a class="x-anchor x-anchor-menu-item m5lc-8 m5lc-a m5lc-c m5lc-d m5lc-e m5lc-i m5lc-k m5lc-l" tabindex="0" target="_blank" href="https://ir.amprius.com/"><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Investor Relations</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-o="&#xf107;"></i></div></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1897"><a class="x-anchor x-anchor-menu-item m5lc-8 m5lc-a m5lc-c m5lc-d m5lc-e m5lc-i m5lc-k m5lc-l" tabindex="0" href="https://amprius.com/careers/"><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Careers</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-o="&#xf107;"></i></div></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1898"><a class="x-anchor x-anchor-menu-item m5lc-8 m5lc-a m5lc-c m5lc-d m5lc-e m5lc-i m5lc-k m5lc-l" tabindex="0" href="https://amprius.com/contact/"><div class="x-anchor-content"><div class="x-anchor-text"><span class="x-anchor-text-primary">Contact</span></div><i class="x-anchor-sub-indicator" data-x-skip-scroll="true" aria-hidden="true" data-x-icon-o="&#xf107;"></i></div></a></li></ul></div></div>
-    </div> <!-- END .x-site -->
-
-    
-    <a class="x-scroll-top right fade" title="Back to Top" data-rvt-scroll-top>
-      
-      <i class="x-icon-angle-up" data-x-icon-s="&#xf106;"></i>
-    </a>
+<!-- End Content Split Section -->
 
   
-  </div> <!-- END .x-root -->
+  
+      <!-- Begin Content Split Section -->
 
-<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">This website may use cookies to improve your experience. Continued use of our site assumes you are OK with this, but you can opt-out if you wish. </div><div class="cli-bar-btn_container"><a role='button' class="cli_settings_button" style="margin:0px 10px 0px 5px">Cookie settings</a><a role='button' data-cli_action="accept" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button wt-cli-accept-btn">ACCEPT</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
-  <div class="cli-modal-dialog" role="document">
-	<div class="cli-modal-content cli-bar-popup">
-		  <button type="button" class="cli-modal-close" id="cliModalClose">
-			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
-			<span class="wt-cli-sr-only">Close</span>
-		  </button>
-		  <div class="cli-modal-body">
-			<div class="cli-container-fluid cli-tab-container">
-	<div class="cli-row">
-		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
-			<div class="cli-privacy-overview">
-				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
-					<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.</div>
-				</div>
-				<a class="cli-privacy-readmore" aria-label="Show more" role="button" data-readmore-text="Show more" data-readless-text="Show less"></a>			</div>
+<section id="content__split" class="content-split__section content-left">
+
+  <div class="row row-site">
+
+    <div class="xlarge-11 xxlarge-11 xlarge-centered columns">
+
+      <div class="row flex-x">
+
+        <div class="columns section-relative wow  xsmall-12 large-6 order-2 large-offset-1 fadeInRight ">
+          <img class="image-with-dots-01 shadow" src="https://factorialenergy.com/wp-content/uploads/DSC08375.jpg" alt="" />
+          <div class="bg-dots-01" style="background: url(https://factorialenergy.com/wp-content/themes/factorial/assets/images/dot-pattern.png)"></div>
+        </div>
+
+        <div class="columns article wow xsmall-12 large-5 order-1 fadeInLeft ">
+          <div>
+                                      <h2 class="mt0">Factorial’s Solution</h2>
+                                      <p style="text-align: left;">Factorial Energy has invested heavily in solid-state battery research and chemistry research over the past 6 years to create our proprietary Factorial Electrolyte System Technology (FEST<sup>®</sup>).</p>
+<p>Our process is practical, customer-driven, and electrode agnostic, and has yielded  the world’s first commercial scale, balanced performance-profile solid-state cell.</p>
+<p>The FEST<sup>®</sup> system, developed in conjunction with several of the world’s largest auto OEMs and cell manufacturers, delivers on the promises of solid-state performance without fatal defects found in iterations of the technology to date. The technology will debut in the high spec market as a proving ground for its performance and manufacturability.</p>
+                      </div>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<!-- End Content Split Section -->
+
+  
+  
+      <!-- Begin Our Application Section -->
+<section class="applications__section" style="background-image: url('https://factorialenergy.com/wp-content/uploads/applications-bg-light.jpg')" >
+	<div class="row row-site ">
+		<div class="xlarge-11 xxlarge-10 xlarge-centered columns">
+			<div class="row column section-heading__container">
+				<h2 class="center">Applications</h2>
+			</div>
+			<div class="row large-up-3">
+									<div class="wow fadeInUp column column-block section-relative matchheight-me">
+													<div class="applications__image-container shadow" style="background-image: url(https://factorialenergy.com/wp-content/uploads/eletric-vehicles.jpg" >
+								<div class="applications__text-container">
+									<h5 class="applications__heading">Electric Vehicles</h5>
+																	</div>
+							</div>
+												</div>
+									<div class="wow fadeInUp column column-block section-relative matchheight-me">
+													<div class="applications__image-container shadow" style="background-image: url(https://factorialenergy.com/wp-content/uploads/eVTOL.jpg" >
+								<div class="applications__text-container">
+									<h5 class="applications__heading">Hi-Spec</h5>
+																	</div>
+							</div>
+												</div>
+									<div class="wow fadeInUp column column-block section-relative matchheight-me">
+													<div class="applications__image-container shadow" style="background-image: url(https://factorialenergy.com/wp-content/uploads/stationary-storage.jpg" >
+								<div class="applications__text-container">
+									<h5 class="applications__heading">Stationary Storage</h5>
+																	</div>
+							</div>
+												</div>
+							</div>
 		</div>
-		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
-												<div class="cli-tab-section">
-						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
-								Necessary							</a>
-															<div class="wt-cli-necessary-checkbox">
-									<input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked"  />
-									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
-								</div>
-								<span class="cli-necessary-caption">Always Enabled</span>
-													</div>
-						<div class="cli-tab-content">
-							<div class="cli-tab-pane cli-fade" data-id="necessary">
-								<div class="wt-cli-cookie-description">
-									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
-<table class="cookielawinfo-row-cat-table cookielawinfo-winter"><thead><tr><th class="cookielawinfo-column-1">Cookie</th><th class="cookielawinfo-column-3">Duration</th><th class="cookielawinfo-column-4">Description</th></tr></thead><tbody><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checbox-analytics</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checbox-functional</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checbox-others</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-necessary</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-performance</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">viewed_cookie_policy</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.</td></tr></tbody></table>								</div>
-							</div>
-						</div>
-					</div>
-																	<div class="cli-tab-section">
-						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab">
-								Functional							</a>
-															<div class="cli-switch">
-									<input type="checkbox" id="wt-cli-checkbox-functional" class="cli-user-preference-checkbox"  data-id="checkbox-functional" />
-									<label for="wt-cli-checkbox-functional" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Functional</span></label>
-								</div>
-													</div>
-						<div class="cli-tab-content">
-							<div class="cli-tab-pane cli-fade" data-id="functional">
-								<div class="wt-cli-cookie-description">
-									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
-								</div>
-							</div>
-						</div>
-					</div>
-																	<div class="cli-tab-section">
-						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab">
-								Performance							</a>
-															<div class="cli-switch">
-									<input type="checkbox" id="wt-cli-checkbox-performance" class="cli-user-preference-checkbox"  data-id="checkbox-performance" />
-									<label for="wt-cli-checkbox-performance" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Performance</span></label>
-								</div>
-													</div>
-						<div class="cli-tab-content">
-							<div class="cli-tab-pane cli-fade" data-id="performance">
-								<div class="wt-cli-cookie-description">
-									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
-								</div>
-							</div>
-						</div>
-					</div>
-																	<div class="cli-tab-section">
-						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab">
-								Analytics							</a>
-															<div class="cli-switch">
-									<input type="checkbox" id="wt-cli-checkbox-analytics" class="cli-user-preference-checkbox"  data-id="checkbox-analytics" />
-									<label for="wt-cli-checkbox-analytics" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Analytics</span></label>
-								</div>
-													</div>
-						<div class="cli-tab-content">
-							<div class="cli-tab-pane cli-fade" data-id="analytics">
-								<div class="wt-cli-cookie-description">
-									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
-								</div>
-							</div>
-						</div>
-					</div>
-																	<div class="cli-tab-section">
-						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab">
-								Advertisement							</a>
-															<div class="cli-switch">
-									<input type="checkbox" id="wt-cli-checkbox-advertisement" class="cli-user-preference-checkbox"  data-id="checkbox-advertisement" />
-									<label for="wt-cli-checkbox-advertisement" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Advertisement</span></label>
-								</div>
-													</div>
-						<div class="cli-tab-content">
-							<div class="cli-tab-pane cli-fade" data-id="advertisement">
-								<div class="wt-cli-cookie-description">
-									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
-								</div>
-							</div>
-						</div>
-					</div>
-																	<div class="cli-tab-section">
-						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab">
-								Others							</a>
-															<div class="cli-switch">
-									<input type="checkbox" id="wt-cli-checkbox-others" class="cli-user-preference-checkbox"  data-id="checkbox-others" />
-									<label for="wt-cli-checkbox-others" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Others</span></label>
-								</div>
-													</div>
-						<div class="cli-tab-content">
-							<div class="cli-tab-pane cli-fade" data-id="others">
-								<div class="wt-cli-cookie-description">
-									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
-								</div>
-							</div>
-						</div>
-					</div>
-										</div>
 	</div>
+
+</section>
+<!-- End Application Section -->
+
+  
+  
+      <!-- Begin News & Media Section -->
+<section class="news-media__section">
+	<div class="bg-dots-01" style="background: url('/wp-content/themes/factorial/assets/images/dot-pattern.png')"></div>
+	<div class="row row-site">
+		<div class="xlarge-11 xxlarge-10 xlarge-centered columns">
+			<div class="row column section-heading__container">
+				<h2 class="news-media__heading">News & Media</h2>
+			</div>
+
+			<div class="row medium-up-2 large-up-3 news-media__block-container wow fadeInUp">
+				
+				
+				<article class="column column-block">
+													<a href="https://www.businesswire.com/news/home/20231005300023/en/Factorial-Ships-A-Samples-of-100Ah-Lithium-Metal-Solid-State-Battery-to-Automotive-Partners"  class="news-media__block">
+						
+												<div class="news-media__block-img">
+							<img src="https://factorialenergy.com/wp-content/uploads/Business-Wire-Logo-Main-Navy2.jpg" width="450" height="350" alt="">
+						</div>
+												<div class="news-media__block-text">
+														<span class="label">October 5, 2023</span>
+							<h3 class="news-media__block-title">Factorial Ships A-Samples of 100+Ah Lithium-Metal Solid-State Battery to Automotive Partners</h3>
+						</div>
+					</a>
+				</article>
+				
+				<article class="column column-block">
+													<a href="https://electrek.co/2023/10/05/factorial-energy-ships-samples-solid-state-batteries-to-automotive-partners/"  class="news-media__block">
+						
+												<div class="news-media__block-img">
+							<img src="https://factorialenergy.com/wp-content/uploads/electrek-logo-scaled-1.png" width="450" height="350" alt="">
+						</div>
+												<div class="news-media__block-text">
+														<span class="label">October 5, 2023</span>
+							<h3 class="news-media__block-title">Factorial Energy ships A-samples of 100+ Ah solid-state batteries to its automotive partners</h3>
+						</div>
+					</a>
+				</article>
+				
+				<article class="column column-block">
+													<a href="https://www.businesswire.com/news/home/20230627319600/en/Factorial-Partners-with-Battery-Recycling-Company-Young-Poong"  class="news-media__block">
+						
+												<div class="news-media__block-img">
+							<img src="https://factorialenergy.com/wp-content/uploads/Business-Wire-Logo-Main-Navy2.jpg" width="450" height="350" alt="">
+						</div>
+												<div class="news-media__block-text">
+														<span class="label">June 27, 2023</span>
+							<h3 class="news-media__block-title">Factorial Partners with Battery Recycling Company Young Poong</h3>
+						</div>
+					</a>
+				</article>
+							</div>
+			<div class="row column mt6 wow fadeInUp">
+				<p class="mb0 center"><a href="http://factorialenergy.com/news-media"  class="button mb0">More News & Media</a></p>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End News & Media Section -->
+
+  
+  
+      <!-- Begin Partner With Us Section -->
+<section class="partner__section" style="background-image: url(https://factorialenergy.com/wp-content/uploads/bg-partner.jpg)">
+	<div class="row row-site ">
+		<div class="xlarge-11 xxlarge-10 xlarge-centered columns">
+			<div class="row ">
+				<div class="large-6 large-offset-6 columns">
+					<div class="partner__section-text-container  wow fadeInRight">
+					<h2 class="partner__heading">Partnerships</h2>
+						<div class="partner__text"><p>The future of battery technology will be a product of successful collaboration along the supply chain. Our blue-chip partners include the world’s largest auto OEMs, battery manufacturers, and strategic material suppliers. Join Factorial in bringing groundbreaking battery technology to the world.</p>
 </div>
-		  </div>
-		  <div class="cli-modal-footer">
-			<div class="wt-cli-element cli-container-fluid cli-tab-container">
-				<div class="cli-row">
-					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
-						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
-						
-															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE &amp; ACCEPT</a>
-													</div>
-						
+						<p><a data-scroll-ignore href="#get-in-touch"  class="button tertiary large expand popup-get-in-touch">Contact Us</a></p>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-  </div>
+</section>
+<!-- End Partner With Us Section -->
+
+  
+  
+  		<!-- End Page Components -->
+
+		<!-- Begin WP Page Loop -->
+		
+		<!-- Begin Page Content -->
+					<!-- End Page Content -->
+
+			</main>
+	<!-- Begin Footer -->
+	<footer>
+	<div class="row">
+		<div class="xlarge-10 large-centered columns">
+			<div class="row">
+				<div class="column column-block large-2">
+					<a href="/" class="logo-footer">
+
+						
+						<img width="306" height="182" src="https://factorialenergy.com/wp-content/uploads/factorial-logo.png" class="attachment-full size-full" alt="Factorial Logo" decoding="async" loading="lazy" srcset="https://factorialenergy.com/wp-content/uploads/factorial-logo.png 306w, https://factorialenergy.com/wp-content/uploads/factorial-logo-300x178.png 300w" sizes="(max-width: 306px) 100vw, 306px" />
+					</a>
+				</div>
+				<div class="column column-block large-3">
+					<p class="footer__address tc-address">
+						<span class="icon-map"></span> 19 Presidential Way<br>
+						Suite 103<br>
+						Woburn, MA 					</p>
+										<p class="footer__phone tc-phone">
+						<span class="icon-phone"></span><a href="tel:6173159733"> 617.315.9733</a>
+					</p>
+					<p class="footer__email tc-email">
+						<span class="icon-paper-plane"></span><a href="mailto:contact@factorialenergy.com"> contact@factorialenergy.com</a>
+					</p>
+				</div>
+				<div class="column column-block large-2">
+					<h6 class="footer__heading">Sitemap</h6>
+
+					<div class="row collapse">
+						<div class="xsmall-12 columns">
+							<ul class="sitemap__list"><li class="d-none scroll-link"><a href="#partners-investors">Partners and Investors</a></li><li><a href="https://factorialenergy.com/news-media">Newsroom</a></li><li><a href="https://factorialenergy.com/careers">Careers</a></li><li><a href="https://factorialenergy.com/blog">Blog</a></li></ul>						</div>
+					</div>
+				</div>
+				<div class="column column-block large-5 flex flex-spaced">
+					<div class="footer__callout">
+						<span class="icon-chat"></span>
+						<p class="footer__callout-heading tc-area01">Have Questions?</p>
+						<a href="#get-in-touch" class="footer__callout-button popup-get-in-touch tc-area01b">Get In Touch</a>
+					</div>
+					<div class="footer__callout">
+						<span class="icon-briefcase"></span>
+						<p class="footer__callout-heading tc-area02">Factorial Careers</p>
+						<a href="https://boards.greenhouse.io/factorialenergy " class="footer__callout-button tc-area02b" target="_blank">Explore The Future</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<div class="copyright">
+	<div class="row">
+		<div class="xlarge-10 large-centered columns">
+			<div class="row">
+				<div class="medium-12 columns">
+					<div class="copyright__container vertically-center-me">
+						<ul class="copyright__utility-links">
+							<li><a href="#">© 2023 Factorial Inc. All Rights Reserved</a></li>
+							<li><a href="https://factorialenergy.com/privacy-policy">Privacy Policy</a></li><li><a href="https://factorialenergy.com/terms-of-service">Terms of Service</a></li><li><a href="https://factorialenergy.com/sitemap">Sitemap</a></li><li><a href="https://factorialenergy.com/disclosure">Disclaimer</a></li>						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
-<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
-<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
-<!--googleon: all--><script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js?ver=1.0.0' id='amprius-gsap-js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/ScrollTrigger.min.js?ver=1.0.0' id='amprius-gsap-scroll-trigger-js'></script>
-<script src='https://amprius.com/wp-content/themes/pro-child/js/lottie.min.js' id='amprius-lottie-js'></script><link rel='stylesheet' id='cookie-law-info-table-css' href='https://amprius.com/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-table.css?ver=3.1.4' type='text/css' media='all' />
-<script type='text/javascript' id='cs-js-extra'>
+
+<!-- Begin Lightbox Form -->
+<div id="get-in-touch" class="mfp-hide form-popup popup-block popup-block--padding popup-block--wide">
+	<form class="js-form-submit" data-form-id="1" data-ga-event="true" data-ga-category="Web Form" data-ga-action="Submit" data-ga-label="Get in Touch">
+		<div class="row column">
+			<div class="success-container success-container--ajax center">
+				<h5 class="h2">Thank you for reaching out to Factorial Energy. Your message was submitted successfully.</h5>
+			</div>
+		</div>
+		<div class="row column">
+			<div class="form-fields-container">
+				<div class="form-popup__heading">
+					<h2 class="label">Get In Touch</h2>
+				</div>
+				<div class="form-popup__section">
+					<div class="row">
+						<div class="medium-6 columns">
+							<label for="input_1_7">First Name <span class="req">*</span>
+								<input type="text" name="input_7" data-fv-notempty="true" data-fv-notempty-message="First Name is required"></label>
+						</div>
+						<div class="medium-6 columns">
+							<label for="input_1_8">Last Name <span class="req">*</span>
+								<input type="text" name="input_8" data-fv-notempty="true" data-fv-notempty-message="Last Name is required"></label>
+						</div>
+						<div class="medium-6 columns">
+							<label for="input_2">Email Address <span class="req">*</span>
+								<input type="text" name="input_2" data-fv-notempty="true" data-fv-notempty-message="Email Address is required" data-fv-emailaddress-message="Please enter a valid Email Address" data-fv-field="input_2"></label>
+						</div>
+						<div class="medium-6 columns">
+							<label for="input_3">Phone <span class="req">*</span>
+								<input type="text" name="input_3" data-fv-notempty="true" data-fv-notempty-message="Phone Number is required"></label>
+						</div>
+						<div class="medium-12 columns">
+							<label for="input_1_1_6">Organization <span class="req">*</span>
+								<input type="text" name="input_6" data-fv-notempty="true" data-fv-field="input_1_6"></label>
+						</div>
+						<div class="medium-12 columns">
+							<label for="input_5">Additional Information <textarea name="input_5" rows="6"></textarea>
+							</label>
+						</div>
+					</div>
+				</div>
+				<div class="row column">
+					<label class="captchaOperation"></label>
+					<input type="text" name="captcha" data-fv-notempty="true" data-fv-notempty-message="Captcha is required" data-fv-callback="true" data-fv-callback-message="Wrong answer" data-fv-callback-callback="checkCaptcha" placeholder="Enter value to verify you are human">
+				</div>
+				<div class="row column">
+					<div class="alert-container"></div>
+				</div>
+				<div class="row column mt4">
+					<button class="button" type="submit">Submit Form</button>
+				</div>
+			</div>
+		</div>
+	</form>
+</div>
+<!-- End Lightbox Form -->
+<!-- Start of Async HubSpot Analytics Code -->
+<script type="text/javascript">
+(function(d,s,i,r) {
+if (d.getElementById(i)){return;}
+var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/4775261.js';
+e.parentNode.insertBefore(n, e);
+})(document,"script","hs-analytics",300000);
+</script>
+<!-- End of Async HubSpot Analytics Code -->
+<script type='text/javascript' id='extras_js-js-extra'>
 /* <![CDATA[ */
-var csJsData = {"linkSelector":"#x-root a[href*=\"#\"]"};
+var ajax_obj = {"ajaxurl":"https:\/\/factorialenergy.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://amprius.com/wp-content/themes/pro/cornerstone/assets/js/site/cs-classic.7.3.9.js?ver=7.3.9' id='cs-js'></script>
-<script type='text/javascript' id='social_warfare_script-js-extra'>
-/* <![CDATA[ */
-var socialWarfare = {"addons":["pro"],"post_id":"1866","variables":{"emphasizeIcons":"0","powered_by_toggle":false,"affiliate_link":"https:\/\/warfareplugins.com"},"floatBeforeContent":""};
-/* ]]> */
+<script type='text/javascript' src='https://factorialenergy.com/wp-content/themes/factorial/assets/js/extras.js?ver=6.3.1' id='extras_js-js'></script>
+<script type='text/javascript' src='https://factorialenergy.com/wp-content/themes/factorial/assets/js/scripts.js?ver=6.3.1' id='scripts_js-js'></script>
+
+<!--Start of the LinkedIn Insight Code -->
+<script type="text/javascript">
+_linkedin_partner_id = "4894130";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = 'https://snap.licdn.com/li.lms-analytics/insight.min.js';
+s.parentNode.insertBefore(b, s);})(window.lintrk);
 </script>
-<script type='text/javascript' src='https://amprius.com/wp-content/plugins/social-warfare/assets/js/script.min.js?ver=4.4.2' id='social_warfare_script-js'></script>
-<script type='text/javascript' id='x-site-js-extra'>
-/* <![CDATA[ */
-var xJsData = {"scrollTop":"0.75"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://amprius.com/wp-content/themes/pro/framework/dist/js/site/x.js?ver=6.3.9' id='x-site-js'></script>
-<script type='text/javascript' src='https://amprius.com/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.6' id='page-links-to-js'></script>
-<script type="text/javascript"> var swp_nonce = "b4c131f41c";function parentIsEvil() { var html = null; try { var doc = top.location.pathname; } catch(err){ }; if(typeof doc === "undefined") { return true } else { return false }; }; if (parentIsEvil()) { top.location = self.location.href; };var url = "https://amprius.com/about/";if(url.indexOf("stfi.re") != -1) { var canonical = ""; var links = document.getElementsByTagName("link"); for (var i = 0; i < links.length; i ++) { if (links[i].getAttribute("rel") === "canonical") { canonical = links[i].getAttribute("href")}}; canonical = canonical.replace("?sfr=1", "");top.location = canonical; console.log(canonical);};var swpFloatBeforeContent = false; var swp_ajax_url = "https://amprius.com/wp-admin/admin-ajax.php"; var swp_post_id = "1866";var swpClickTracking = false; swpPinIt={"enabled":false};</script><script id="cornerstone-custom-js" type="text/javascript">
-gsap.registerPlugin(ScrollTrigger);
-
-(() => {
-  /***************************************************************
-    Reload the page on orientation change
-  ***************************************************************/
-  window.addEventListener('orientationchange', function (event) {
-    //location.reload();
-  });
-
-  /***************************************************************
-  /***************************************************************
-    Lottie 
-  ***************************************************************/
-  const lottieContainers = document.querySelectorAll('.lottie-on-load');
-  if (lottieContainers.length !== 0) {
-    lottieContainers.forEach((lottieElm) => {
-      const jsonPath = lottieElm.dataset.svg;
-      const delay = lottieElm.dataset.delay;
-      const animation = bodymovin.loadAnimation({
-        container: lottieElm,
-        path: jsonPath,
-        renderer: 'svg',
-        loop: false,
-        autoplay: false,
-      });
-      if (delay === '' || delay === undefined) {
-        animation.play();
-      } else {
-        setTimeout(() => {
-          animation.play();
-        }, delay);
-      }
-    });
-  }
-
-  const lottieScroll = document.querySelectorAll('.lottie-on-scroll');
-  if (lottieScroll.length !== 0) {
-    lottieScroll.forEach((lottieElm) => {
-      const jsonPath = lottieElm.dataset.svg;
-      const startMarker = lottieElm.dataset.start;
-      const animation = bodymovin.loadAnimation({
-        container: lottieElm,
-        path: jsonPath,
-        renderer: 'svg',
-        loop: false,
-        autoplay: false,
-      });
-
-      ScrollTrigger.create({
-        trigger: lottieElm,
-        start: startMarker,
-        id: 'cards',
-        onEnter: () => {
-          animation.play();
-        },
-      });
-    });
-  }
-
-  /***************************************************************
-    Page hero animation
-  ***************************************************************/
-
-  const heroAnimContainer = document.querySelector('.hero-anim-container');
-  if (heroAnimContainer) {
-    const delay = heroAnimContainer.classList.contains('home-hero-anim-container') ? 3.5 : 1;
-    gsap.from('.hero-content .anim-item', { delay: 0.5, duration: 0.5, y: 10, stagger: 0.2 });
-    gsap.to('.hero-content .anim-item', { delay: 0.5, duration: 0.5, opacity: 1, stagger: 0.2 });
-    gsap.to('.hero-anim-col', { delay: delay, duration: 0.1, opacity: 1 });
-    gsap.from('.hero-anim-col', { delay: delay, duration: 0.6, width: 0 });
-  }
-
-  /***************************************************************
-    Home page animation
-  ***************************************************************/
-
-  //Hero
-  const homeAnimContainer = document.querySelector('.home-animation-container');
-  if (homeAnimContainer) {
-    const icons = gsap.timeline();
-    icons
-      .from('.anim-icon', {
-        delay: 1.8,
-        duration: 0.3,
-        scale: 0,
-        stagger: 0.1,
-        ease: 'back',
-      })
-      .to(
-        '.anim-icon',
-        {
-          duration: 0.3,
-          opacity: 1,
-          stagger: 0.1,
-          ease: 'back',
-        },
-        '<'
-      );
-  }
-
-  //Info section
-  const homeInfoSection = document.querySelector('.home-info-section');
-  if (homeInfoSection) {
-    const infoTimeline = gsap.timeline();
-
-    infoTimeline
-      .from('.home-info-content .img-1', { delay: 2.4, duration: 0.8, x: 10 })
-      .to('.home-info-content .img-1', { duration: 0.8, opacity: 1 }, '<')
-      .from('.home-info-content .img-2', { duration: 0.8, x: -20 }, '-=0.5')
-      .to('.home-info-content .img-2', { duration: 0.8, opacity: 1 }, '<')
-      .to('.home-info-content .info-content', { duration: 1, opacity: 1, ease: 'back' }, '-=0.5');
-  }
-
-})();
-
-var ready = (callback) => {
-  if (document.readyState != 'loading') callback();
-  else document.addEventListener('DOMContentLoaded', callback);
-};
-
-ready(() => {});
-</script>
-
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=4894130&fmt=gif" />
+</noscript>
+<!-- End of the LinkedIn Insight code -->
 </body>
 </html>
+	<!-- End Footer -->
+</div>
+<!-- End Wrapper -->
