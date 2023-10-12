@@ -12,13 +12,13 @@
   <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v21.3 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Transformational Solid-state Battery Technology | Factorial</title>
+	<title>AMBR Tech</title>
 	<link rel="canonical" href="https://factorialenergy.com/" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Transformational Solid-state Battery Technology | Factorial" />
-	<meta property="og:url" content="https://factorialenergy.com/" />
-	<meta property="og:site_name" content="Factorial" />
+	<meta property="og:title" content="AMBR Tech" />
+	<meta property="og:url" content="ambrtech.co" />
+	<meta property="og:site_name" content="AMBR Tech" />
 	<meta property="article:modified_time" content="2023-03-13T17:43:55+00:00" />
 	<meta property="og:image" content="https://factorialenergy.com/wp-content/uploads/DSC08375.jpg" />
 	<meta property="og:image:width" content="2048" />
@@ -162,8 +162,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="home-hero__valign-center">
 				<div data-wow-delay="1s" class="wow fadeInUp vertically-center-me">
 					<div class="hero-text__container">
-						<h1 class="hero-text__title tc-hero-heading">Transformational Solid-State Battery Technology</h1>
-						<h2 class="hero-text__subtitle tc-hero-subheading">Empowering a sustainable future with the highest performance and safest batteries for electric vehicles, homes, and critical applications.</h2>
+						<h1 class="hero-text__title tc-hero-heading">AMBR Tech</h1>
+						<h2 class="hero-text__subtitle tc-hero-subheading">Committed to developing safer, more sustainable, and high-performing metal-based battery solutions for portable electronic devices. </h2>
 					</div>
 				</div>
 			</div>
